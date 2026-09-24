@@ -1,5 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T00:00:00+07:00",
-  "items": {}
+  "updatedAt": "2026-09-24T10:48:58+07:00",
+  "items": {
+    "rss:simonwillison:4e32c351abd8d17d": {
+      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+      "title": "datasette 0.65.5",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T10:48:58+07:00",
+      "status": "extract_failed"
+    }
+  }
 }
