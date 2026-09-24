@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T16:39:33+07:00",
+  "updatedAt": "2026-09-24T23:51:22+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -60,8 +60,8 @@
       "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
       "title": "Shadow roots, explained with live examples",
       "source": "rss:simonwillison",
-      "seenAt": "2026-09-24T16:39:28+07:00",
-      "status": "extract_failed"
+      "seenAt": "2026-09-24T23:50:39+07:00",
+      "status": "skipped"
     },
     "rss:simonwillison:219c439494be37ce": {
       "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
@@ -93,6 +93,43 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-09-24T16:39:33+07:00",
       "digestAt": "2026-09-24T16:39:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:8f820c2b26f6994a": {
+      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "title": "llm-anthropic 0.29",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:50:20+07:00",
+      "status": "extract_failed"
+    },
+    "rss:simonwillison:edb6d5a5f85d653b": {
+      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "title": "Quoting @therealcornpop",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:50:39+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:33879f77e1536c69": {
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "title": "datasette-explain 0.2.2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:51:00+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:3fb5c069cb2ad112": {
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+      "title": "datasette 1.0a40",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:51:22+07:00",
+      "digestAt": "2026-09-24T23:51:22+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:1b7a07575c93824e": {
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T23:51:22+07:00",
+      "digestAt": "2026-09-24T23:51:22+07:00",
       "status": "sent"
     }
   }
