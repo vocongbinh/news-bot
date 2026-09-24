@@ -78,7 +78,7 @@ export function loadConfig(rootDir = process.cwd()): AppConfig {
     telegramBotToken,
     telegramChatId,
     geminiApiKey,
-    geminiModel: process.env.GEMINI_MODEL ?? 'gemini-1.5-flash',
+    geminiModel: process.env.GEMINI_MODEL ?? 'gemini-3.5-flash-lite',
     seenPath: resolve(rootDir, 'state/seen.json'),
     dryRun,
   };
