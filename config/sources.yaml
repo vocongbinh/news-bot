@@ -1,0 +1,20 @@
+hn:
+  enabled: true
+  weight: 8
+  windowHours: 18
+  maxItems: 40
+
+rss:
+  - id: simonwillison
+    url: https://simonwillison.net/atom/everything/
+    weight: 10
+    tags: [ai, tooling]
+  - id: joelonsoftware
+    url: https://www.joelonsoftware.com/feed/
+    weight: 7
+    tags: [engineering]
+  - id: maria-systems
+    url: https://example.com/replace-me/rss.xml
+    weight: 6
+    tags: [system-design]
+    enabled: false
