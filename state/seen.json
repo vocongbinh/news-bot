@@ -1,13 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T10:48:58+07:00",
+  "updatedAt": "2026-09-24T11:07:19+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
       "title": "datasette 0.65.5",
       "source": "rss:simonwillison",
-      "seenAt": "2026-09-24T10:48:58+07:00",
-      "status": "extract_failed"
+      "seenAt": "2026-09-24T11:07:15+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:2e8a5e66791ed507": {
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "title": "llm 0.36",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:c40a1cd0e489d726": {
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:6d6d661c684a6428": {
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:b3e5263fa8976c3c": {
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:0d7b498b4e4acf53": {
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "title": "llm-typesafe 0.1a0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-24T11:07:19+07:00",
+      "digestAt": "2026-09-24T11:07:19+07:00",
+      "status": "sent"
     }
   }
 }
