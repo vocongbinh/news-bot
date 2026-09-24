@@ -1,0 +1,40 @@
+topK: 6
+minScore: 6
+truncateChars: 5000
+
+allowKeywords:
+  - ai
+  - llm
+  - gpt
+  - rust
+  - golang
+  - typescript
+  - kubernetes
+  - leetcode
+  - system design
+  - distributed
+  - interview
+  - devops
+  - observability
+  - postgres
+  - redis
+  - docker
+  - kubernetes
+  - compiler
+  - performance
+  - security
+  - open source
+
+denyKeywords:
+  - celebrity
+  - bitcoin price
+  - crypto price
+  - sports score
+  - election
+  - box office
+
+weights:
+  keywordHit: 3
+  recencyMax: 4
+  hnPointsDivisor: 25
+  denyHit: 20
