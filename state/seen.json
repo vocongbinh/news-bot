@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T10:29:16+07:00",
+  "updatedAt": "2026-09-25T16:56:54+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -136,8 +136,8 @@
       "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
       "title": "commit-rewriter 0.2",
       "source": "rss:simonwillison",
-      "seenAt": "2026-09-25T10:28:45+07:00",
-      "status": "extract_failed"
+      "seenAt": "2026-09-25T16:56:46+07:00",
+      "status": "skipped"
     },
     "rss:simonwillison:0fc7c0f362de8929": {
       "url": "https://simonwillison.net/2026/Sep/24/datasette/",
@@ -168,6 +168,44 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-09-25T10:29:16+07:00",
       "digestAt": "2026-09-25T10:29:16+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:327f7261ab07f686": {
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:47+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:41d15f7729de397a": {
+      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:47+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:bc4ce9d50d9b33de": {
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "title": "Claude Cowork and chat are now one Claude",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:54+07:00",
+      "digestAt": "2026-09-25T16:56:54+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:fb0112d2438294ff": {
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "title": "datasette-auth-github 1.0",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:54+07:00",
+      "digestAt": "2026-09-25T16:56:54+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:e133d02a1d698c5d": {
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "title": "MCP was always a bad idea?",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T16:56:54+07:00",
+      "digestAt": "2026-09-25T16:56:54+07:00",
       "status": "sent"
     }
   }
