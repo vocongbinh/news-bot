@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T16:56:54+07:00",
+  "updatedAt": "2026-09-25T23:54:33+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -206,6 +206,51 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-09-25T16:56:54+07:00",
       "digestAt": "2026-09-25T16:56:54+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:eee7ce72da23ef2f": {
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "title": "Note on 24th September 2026",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:24+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:078f2955607a3f9c": {
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:25+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:55668e9d93e2c01a": {
+      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+      "title": "The Creative Spirit of Who Framed Roger Rabbit",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:30+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:b4eea27689aebcc6": {
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "title": "Quoting Thariq Shihipar",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:33+07:00",
+      "digestAt": "2026-09-25T23:54:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:c8aee9fb8db23a5b": {
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "title": "Quoting voxium",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T23:54:33+07:00",
+      "digestAt": "2026-09-25T23:54:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3282": {
+      "url": "https://www.joelonsoftware.com/2018/04/23/strange-and-maddening-rules/",
+      "title": "Strange and maddening rules",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-25T23:54:33+07:00",
+      "digestAt": "2026-09-25T23:54:33+07:00",
       "status": "sent"
     }
   }
