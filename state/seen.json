@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T23:51:22+07:00",
+  "updatedAt": "2026-09-25T10:29:16+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -99,8 +99,8 @@
       "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
       "title": "llm-anthropic 0.29",
       "source": "rss:simonwillison",
-      "seenAt": "2026-09-24T23:50:20+07:00",
-      "status": "extract_failed"
+      "seenAt": "2026-09-25T10:28:45+07:00",
+      "status": "skipped"
     },
     "rss:simonwillison:edb6d5a5f85d653b": {
       "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
@@ -130,6 +130,44 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-09-24T23:51:22+07:00",
       "digestAt": "2026-09-24T23:51:22+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:5159a3d492b23299": {
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "title": "commit-rewriter 0.2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:28:45+07:00",
+      "status": "extract_failed"
+    },
+    "rss:simonwillison:0fc7c0f362de8929": {
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "title": "datasette 1.0a41",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:12+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:0c114974aa55eb9d": {
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+      "title": "How To Write With An LLM",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:16+07:00",
+      "digestAt": "2026-09-25T10:29:16+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:35cfdc3ffbab38ec": {
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+      "title": "Quoting Mustafa Suleyman",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:16+07:00",
+      "digestAt": "2026-09-25T10:29:16+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:6533bdcc0f6c39c5": {
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "title": "Self-generated prompt injections in compaction summaries",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-25T10:29:16+07:00",
+      "digestAt": "2026-09-25T10:29:16+07:00",
       "status": "sent"
     }
   }
