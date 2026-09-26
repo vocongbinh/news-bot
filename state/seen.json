@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T23:54:33+07:00",
+  "updatedAt": "2026-09-26T10:34:33+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -251,6 +251,54 @@
       "source": "rss:joelonsoftware",
       "seenAt": "2026-09-25T23:54:33+07:00",
       "digestAt": "2026-09-25T23:54:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:b467d6accdc2d682": {
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "title": "Quoting John Gruber",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:60485dd1ae9f6612": {
+      "url": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3535": {
+      "url": "https://www.joelonsoftware.com/2019/03/28/the-next-ceo-of-stack-overflow/",
+      "title": "The next CEO of Stack Overflow",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3260": {
+      "url": "https://www.joelonsoftware.com/2018/04/13/gamification/",
+      "title": "A Dusting of Gamification",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3411": {
+      "url": "https://www.joelonsoftware.com/2018/05/03/announcing-stack-overflow-for-teams/",
+      "title": "Announcing Stack Overflow for Teams",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
+      "status": "sent"
+    },
+    "rss:joelonsoftware:https://www.joelonsoftware.com/?p=3701": {
+      "url": "https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/",
+      "title": "HASH: a free, online platform for modeling the world",
+      "source": "rss:joelonsoftware",
+      "seenAt": "2026-09-26T10:34:33+07:00",
+      "digestAt": "2026-09-26T10:34:33+07:00",
       "status": "sent"
     }
   }
