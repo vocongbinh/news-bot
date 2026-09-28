@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T10:42:14+07:00",
+  "updatedAt": "2026-09-28T18:22:21+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -378,6 +378,14 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-09-28T10:42:14+07:00",
       "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:1fb466641ec80a8d": {
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "title": "Quoting Muse AI Agent",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T18:22:21+07:00",
+      "digestAt": "2026-09-28T18:22:21+07:00",
       "status": "sent"
     }
   }
