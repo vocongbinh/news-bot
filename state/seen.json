@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T23:42:08+07:00",
+  "updatedAt": "2026-09-28T10:42:14+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -346,6 +346,38 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-09-27T10:43:06+07:00",
       "digestAt": "2026-09-27T10:43:06+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:7db4974c11ebd58e": {
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "title": "2026 in LLMs (so far)",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:f5edbd3b23d95b4a": {
+      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "title": "Bluesky reply bot checker",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:97397d7fa75c5084": {
+      "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:03a38f20f9628179": {
+      "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-28T10:42:14+07:00",
+      "digestAt": "2026-09-28T10:42:14+07:00",
       "status": "sent"
     }
   }
