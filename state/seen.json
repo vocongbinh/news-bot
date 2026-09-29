@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T18:00:16+07:00",
+  "updatedAt": "2026-09-30T24:54:09+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -403,6 +403,13 @@
       "seenAt": "2026-09-29T11:17:12+07:00",
       "digestAt": "2026-09-29T11:17:12+07:00",
       "status": "sent"
+    },
+    "rss:simonwillison:d3b185d971abc0ea": {
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "title": "OpenAI DevDay 2026 live blog",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-09-30T24:54:09+07:00",
+      "status": "skipped"
     }
   }
 }
