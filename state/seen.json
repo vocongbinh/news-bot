@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T22:58:48+07:00",
+  "updatedAt": "2026-10-04T11:21:16+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -447,6 +447,28 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-01T18:17:14+07:00",
       "digestAt": "2026-10-01T18:17:14+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:637b19621e90d689": {
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "title": "September sponsors-only newsletter",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-04T11:21:13+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:b23a71d2dca41cfa": {
+      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "title": "Rex's Dino Store",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-04T11:21:15+07:00",
+      "status": "skipped"
+    },
+    "rss:simonwillison:345f1755705d282a": {
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-04T11:21:16+07:00",
+      "digestAt": "2026-10-04T11:21:16+07:00",
       "status": "sent"
     }
   }
