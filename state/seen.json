@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T19:37:58+07:00",
+  "updatedAt": "2026-10-13T04:06:01+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -675,6 +675,22 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-11T11:03:22+07:00",
       "digestAt": "2026-10-11T11:03:22+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:901eddfa61b84a5e": {
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-13T04:06:01+07:00",
+      "digestAt": "2026-10-13T04:06:01+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:2f5855ec66718315": {
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "title": "datasette-ports 0.4",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-13T04:06:01+07:00",
+      "digestAt": "2026-10-13T04:06:01+07:00",
       "status": "sent"
     }
   }
