@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T19:23:49+07:00",
+  "updatedAt": "2026-10-14T02:05:10+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -699,6 +699,14 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-13T12:31:10+07:00",
       "digestAt": "2026-10-13T12:31:10+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:7e80df2842c6c98c": {
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "title": "Quoting Geoffrey Huntley",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-14T02:05:10+07:00",
+      "digestAt": "2026-10-14T02:05:10+07:00",
       "status": "sent"
     }
   }
