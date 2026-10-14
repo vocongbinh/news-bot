@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T02:05:10+07:00",
+  "updatedAt": "2026-10-14T10:34:49+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -707,6 +707,45 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-14T02:05:10+07:00",
       "digestAt": "2026-10-14T02:05:10+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:ace58ee31866ab85": {
+      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+      "title": "web-edit 0.1a1",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-14T10:34:42+07:00",
+      "status": "extract_failed"
+    },
+    "rss:simonwillison:39b03f627696e97f": {
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "title": "llm-gemini 0.35",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-14T10:34:49+07:00",
+      "digestAt": "2026-10-14T10:34:49+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:f99ea621acd6e4bb": {
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+      "title": "llm-meta-ai 0.2",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-14T10:34:49+07:00",
+      "digestAt": "2026-10-14T10:34:49+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:9c11d7169c7fa53a": {
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-14T10:34:49+07:00",
+      "digestAt": "2026-10-14T10:34:49+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:fdc555784f183633": {
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "title": "Redesigning source control at Anthropic",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-14T10:34:49+07:00",
+      "digestAt": "2026-10-14T10:34:49+07:00",
       "status": "sent"
     }
   }
