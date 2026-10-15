@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T16:32:54+07:00",
+  "updatedAt": "2026-10-15T23:38:08+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -762,6 +762,14 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-15T10:14:43+07:00",
       "digestAt": "2026-10-15T10:14:43+07:00",
+      "status": "sent"
+    },
+    "rss:simonwillison:782d5b0065aab2f9": {
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "source": "rss:simonwillison",
+      "seenAt": "2026-10-15T23:38:08+07:00",
+      "digestAt": "2026-10-15T23:38:08+07:00",
       "status": "sent"
     }
   }
