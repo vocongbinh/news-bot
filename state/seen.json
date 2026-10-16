@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T09:49:34+07:00",
+  "updatedAt": "2026-10-16T09:52:07+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1027,6 +1027,461 @@
       "seenAt": "2026-10-16T09:49:34+07:00",
       "digestAt": "2026-10-16T09:49:34+07:00",
       "status": "sent"
+    },
+    "greenhouse:thoughtworks:7992089": {
+      "url": "https://www.thoughtworks.com/careers/jobs/7992089?gh_jid=7992089",
+      "title": "Technical Principal",
+      "source": "Thoughtworks",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121828": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Solution-Design--Senior-Consultant---ECOM_JR121828",
+      "title": "Solution Design, Senior Consultant - ECOM",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122139": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Business-Manager--NAB-Vietnam-People---Culture-_JR122139",
+      "title": "Business Manager (NAB Vietnam People & Culture)",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122147": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Hanoi-Vietnam/Consultant--Design-System_JR122147",
+      "title": "Consultant, Design System (Engineering)",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120986": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Manager--Data-Reporting---Insights---NAB-Vietnam-center_JR120986",
+      "title": "Manager, Data Reporting & Insights - NAB Vietnam center",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR119697-2": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Head-of-Engineering--Tech-Fraud---Scams---NAB-Vietnam_JR119697-2",
+      "title": "Head of Engineering, Tech Fraud & Scams - NAB Vietnam",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121771": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Product-Owner---Personalisation_JR121771",
+      "title": "Product Owner - Personalisation",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121774": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Product-Owner---Leads---Consents_JR121774",
+      "title": "Product Owner - Leads & Consents",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121775": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Product-Owner---Marketing-Data_JR121775",
+      "title": "Product Owner - Marketing Data",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121776": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Product-Owner---Digital-Signals_JR121776",
+      "title": "Product Owner - Digital Signals",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121779-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Lead--DOMO-Data-Engineer---Group-Marketing_JR121779-1",
+      "title": "Lead, DOMO Data Engineer - Group Marketing",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121778": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Analyst--DOMO-Data-Engineer---Group-Marketing_JR121778",
+      "title": "Analyst, DOMO Data Engineer - Group Marketing",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121875": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Digital-Marketing-Analytics-Consultant_JR121875",
+      "title": "Digital Marketing Analytics Consultant",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121872": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Data-Governance-Consultant_JR121872",
+      "title": "Data Governance Consultant",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121939-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/DevOps-Engineer---Payments_JR121939-1",
+      "title": "DevOps Engineer - Payments",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121876": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Head-of-Marketing---Group-Marketing_JR121876",
+      "title": "Head of Marketing - Group Marketing",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "bamboohr:leapxpert:205": {
+      "url": "https://leapxpert.bamboohr.com/careers/205",
+      "title": "Director of Platform Engineering",
+      "source": "LeapXpert",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000155409869": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000155409869",
+      "title": "Senior DevOps Engineer",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000154939209": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000154939209",
+      "title": "Senior Software Engineer, Fullstack",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000154310950": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000154310950",
+      "title": "Senior Software Engineer, Backend - Agent Exprience",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000154310252": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000154310252",
+      "title": "Senior Software Engineer, Backend",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000154063079": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000154063079",
+      "title": "Key Accounts Associate, GFB VN",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000154004729": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000154004729",
+      "title": "Lead Security Engineer, Red Team & Threat Intel",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000153691564": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000153691564",
+      "title": "Senior Software Engineer, Backend",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000153692519": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000153692519",
+      "title": "Senior Software Engineer, Backend",
+      "source": "Grab",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8007344003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8007344003",
+      "title": "Account Executive, Air, T1200",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7782145003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7782145003",
+      "title": "Account Executive, CEW",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7752115003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7752115003",
+      "title": "Account Executive, Corrections East",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7967240003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7967240003",
+      "title": "Account Executive, Mid City",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8013375003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8013375003",
+      "title": "Air Account Executive",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8013376003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8013376003",
+      "title": "Air Account Executive",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:5753033003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/5753033003",
+      "title": "Android Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7675624003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7675624003",
+      "title": "Engineering Manager",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7576586003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7576586003",
+      "title": "Engineering Manager (Shared CX)",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7992162003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7992162003",
+      "title": "Firmware Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7576651003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7576651003",
+      "title": "iOS Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7992055003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7992055003",
+      "title": "Key Account Executive",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7786101003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7786101003",
+      "title": "Key Account Leader",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7786097003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7786097003",
+      "title": "Key Account Leader",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7984841003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7984841003",
+      "title": "Mission Engineer - Baltimore",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7824681003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7824681003",
+      "title": "Mission Engineer II - Albuquerque",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7780498003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7780498003",
+      "title": "Mission Engineer II - Pinellas County FL Sheriff's Office",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7887904003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7887904003",
+      "title": "Mission Engineer - Miami",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7824446003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7824446003",
+      "title": "Mission Engineer - Oklahoma City",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7887910003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7887910003",
+      "title": "Mission Engineer - Orlando & Seiminole County",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7887909003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7887909003",
+      "title": "Mission Engineer - Pasco County",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7887969003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7887969003",
+      "title": "Mission Engineer - Port St. Lucie, Florida",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7887905003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7887905003",
+      "title": "Mission Engineer - Tampa",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7824569003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7824569003",
+      "title": "Mission Engineer - Vancouver, British Columbia",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7923356003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7923356003",
+      "title": "Principal Product Manager, DEMS Mobile",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7923354003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7923354003",
+      "title": "Product Manager II, Axon Mobile",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8002096003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8002096003",
+      "title": "Regional Support Manager, Northern Europe",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7661097003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7661097003",
+      "title": "Research Scientist II",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7986324003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7986324003",
+      "title": "Sales Engineer, South and Central America",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7825575003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7825575003",
+      "title": "Senior Firmware Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7624224003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7624224003",
+      "title": "Senior Mobile Android Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7905553003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7905553003",
+      "title": "Senior Product Manager II",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7631963003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7631963003",
+      "title": "Senior Sales Engineer, Dedrone, META",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7683098003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7683098003",
+      "title": "Senior Sales Engineer - META Region",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7998090003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7998090003",
+      "title": "Senior Sales Engineer, Russian Speaking",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7823328003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7823328003",
+      "title": "Senior Security Operations Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7576369003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7576369003",
+      "title": "Senior Technical Program Manager I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7992757003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7992757003",
+      "title": "Strategic Account Executive, DACH",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8008862003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8008862003",
+      "title": "Strategic Account Executive - Nordics & Baltics",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7994982003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7994982003",
+      "title": "Technical Account Manager",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:52:07+07:00",
+      "status": "skipped"
     }
   }
 }
