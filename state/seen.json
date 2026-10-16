@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T23:38:08+07:00",
+  "updatedAt": "2026-10-16T09:49:34+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -770,6 +770,262 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-15T23:38:08+07:00",
       "digestAt": "2026-10-15T23:38:08+07:00",
+      "status": "sent"
+    },
+    "greenhouse:thoughtworks:7916649": {
+      "url": "https://www.thoughtworks.com/careers/jobs/7916649?gh_jid=7916649",
+      "title": "Lead Software Engineer (Fullstack - Node.js, React, Typescript, Java, Kotlin)",
+      "source": "Thoughtworks",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:thoughtworks:7920282": {
+      "url": "https://www.thoughtworks.com/careers/jobs/7920282?gh_jid=7920282",
+      "title": "Senior Fullstack Software Engineer (Node.js, React, Typescript, Java, Kotlin)",
+      "source": "Thoughtworks",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7336166003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7336166003",
+      "title": "Senior Backend Software Engineer II",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7806690003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7806690003",
+      "title": "Backend Software Engineer",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4699962006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4699962006",
+      "title": "Software Engineer (C/C++)",
+      "source": "WorldQuant",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7694613003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7694613003",
+      "title": "Senior Backend Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7852740003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7852740003",
+      "title": "Senior Embedded Software Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7748612003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7748612003",
+      "title": "Senior Embedded Software Engineer II",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:6608719003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/6608719003",
+      "title": "Senior Mobile iOS Engineer",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7624046003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7624046003",
+      "title": "Staff Software Engineer",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4653484006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4653484006",
+      "title": "Senior Backend Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4672066006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4672066006",
+      "title": "Senior Software Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-10-16T09:48:24+07:00",
+      "digestAt": "2026-10-16T09:48:24+07:00",
+      "status": "sent"
+    },
+    "itviec:employment-hero:senior-software-engineer-remote-backend-fullstack-employment-hero-2251": {
+      "url": "https://itviec.com/it-jobs/senior-software-engineer-remote-backend-fullstack-employment-hero-2251",
+      "title": "Senior Software Engineer (Remote, Backend/FullStack)",
+      "source": "Employment Hero",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "workday:nab:JR122006": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Hanoi-Vietnam/Senior-AI-Ops-Engineer---AI-Platforms_JR122006",
+      "title": "Senior AI Ops Engineer - AI Platforms",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "workday:nab:JR122008": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Hanoi-Vietnam/Senior-AI-Engineer---AI-Platforms_JR122008",
+      "title": "Senior AI Engineer - AI Platforms",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "workday:nab:JR121830": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Hanoi-Vietnam/Senior-Full-Stack-Engineer---ECOM_JR121830",
+      "title": "Senior Full-Stack Engineer - ECOM",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "workday:nab:JR121834": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Hanoi-Vietnam/Lead-Full-Stack-Engineer---ECOM_JR121834",
+      "title": "Lead Full-Stack Engineer - ECOM",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "workday:nab:JR121809-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Analyst--Java-Engineer_JR121809-1",
+      "title": "Analyst, Java Engineer",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7806691003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7806691003",
+      "title": "Software Engineer",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:7694598003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7694598003",
+      "title": "Software Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4665338006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4665338006",
+      "title": "Backend Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4658486006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4658486006",
+      "title": "Full Stack Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4669597006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4669597006",
+      "title": "Python Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4703213006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4703213006",
+      "title": "Quantitative Developer",
+      "source": "WorldQuant",
+      "seenAt": "2026-10-16T09:49:02+07:00",
+      "digestAt": "2026-10-16T09:49:02+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:principal-golang-engineer-in-hcm-hanoi-money-forward-vietnam-co-ltd-2356": {
+      "url": "https://itviec.com/it-jobs/principal-golang-engineer-in-hcm-hanoi-money-forward-vietnam-co-ltd-2356",
+      "title": "Principal Golang Engineer in HCM/Hanoi",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:ai-tech-lead-context-harness-money-forward-vietnam-co-ltd-4508": {
+      "url": "https://itviec.com/it-jobs/ai-tech-lead-context-harness-money-forward-vietnam-co-ltd-4508",
+      "title": "AI Tech Lead — Context & Harness",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:automation-qa-qc-test-lead-manager-sdet-ai-money-forward-vietnam-co-ltd-2346": {
+      "url": "https://itviec.com/it-jobs/automation-qa-qc-test-lead-manager-sdet-ai-money-forward-vietnam-co-ltd-2346",
+      "title": "Automation QA QC Test Lead/Manager (SDET, AI)",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:senior-principal-software-engineer-ruby-on-rails-ai-money-forward-vietnam-co-ltd-3111": {
+      "url": "https://itviec.com/it-jobs/senior-principal-software-engineer-ruby-on-rails-ai-money-forward-vietnam-co-ltd-3111",
+      "title": "Senior/Principal Software Engineer (Ruby on Rails, AI)",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:principal-security-software-engineer-digital-banking-money-forward-vietnam-co-ltd-1922": {
+      "url": "https://itviec.com/it-jobs/principal-security-software-engineer-digital-banking-money-forward-vietnam-co-ltd-1922",
+      "title": "Principal Security Software Engineer (Digital Banking)",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:principal-java-kotlin-engineer-banking-project-money-forward-vietnam-co-ltd-4136": {
+      "url": "https://itviec.com/it-jobs/principal-java-kotlin-engineer-banking-project-money-forward-vietnam-co-ltd-4136",
+      "title": "Principal Java/Kotlin Engineer (Banking Project)",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:hanoi-fullstack-qa-engineer-lead-manual-auto-ai-money-forward-vietnam-co-ltd-4636": {
+      "url": "https://itviec.com/it-jobs/hanoi-fullstack-qa-engineer-lead-manual-auto-ai-money-forward-vietnam-co-ltd-4636",
+      "title": "[Hanoi] Fullstack QA Engineer Lead (Manual, Auto, AI)",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
+      "status": "sent"
+    },
+    "itviec:money-forward-vietnam-co-ltd:principal-java-kotlin-engineer-spring-security-auth-money-forward-vietnam-co-ltd-1048": {
+      "url": "https://itviec.com/it-jobs/principal-java-kotlin-engineer-spring-security-auth-money-forward-vietnam-co-ltd-1048",
+      "title": "Principal Java/Kotlin Engineer (Spring Security & Auth)",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-16T09:49:34+07:00",
+      "digestAt": "2026-10-16T09:49:34+07:00",
       "status": "sent"
     }
   }

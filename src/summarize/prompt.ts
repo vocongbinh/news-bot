@@ -1,20 +1,35 @@
-import type { RankedItem } from '../fetchers/types.ts';
+import type { JobMatch } from '../fetchers/types.ts';
 
-export const SYSTEM_PROMPT = `You are a senior software engineer writing a concise reading digest.
-Summarize ONLY engineering-relevant content for busy developers.
-Style: clear, slightly opinionated, no fluff, no marketing tone.
-Output MUST be valid JSON matching the schema. Keep total output under 300 tokens.
-If the article is weak or off-topic for software engineers, set "skip": true.`;
+export const JOB_SYSTEM_PROMPT = `You are a staff software engineer and technical recruiter analyzing tech job postings in Vietnam.
+Analyze the provided job title, company, location, and description.
+Extract exactly 3 concise, high-value bullet points in Vietnamese or English:
+1. techStack: Core programming languages, frameworks, cloud platforms, databases, and libraries.
+2. requirements: Experience level, system scale, architectural depth (e.g., microservices, event-driven, distributed systems).
+3. highlights: Work mode (Remote/Hybrid/Office), standout benefits, team culture, or compensation indicators if available.
 
-export function buildUserPrompt(item: RankedItem, text: string): string {
+Output MUST be valid JSON with keys:
+- "techStack": string
+- "requirements": string
+- "highlights": string
+- "bullets": array of 3 strings corresponding to the 3 items above
+
+Keep each point under 25 words. No marketing fluff.`;
+
+export function buildJobPrompt(match: JobMatch): string {
+  const job = match.job;
+  const descriptionSnippet = job.description
+    ? job.description.slice(0, 3000)
+    : 'No full description provided. Infer from title and tags.';
+
   return [
-    `Title: ${item.title}`,
-    `Source: ${item.source}`,
-    `URL: ${item.url}`,
+    `Company: ${job.company}`,
+    `Role Title: ${job.title}`,
+    `Location: ${job.location}`,
+    `Tags: ${job.tags?.join(', ') ?? 'None'}`,
     '',
-    'Article text:',
-    text,
+    'Job Description:',
+    descriptionSnippet,
     '',
-    'Return JSON with keys: skip, topicTags, readingMinutes, bullets, keyInsight, hook.',
+    'Return JSON with keys: techStack, requirements, highlights, bullets.',
   ].join('\n');
 }

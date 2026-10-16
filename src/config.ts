@@ -1,42 +1,19 @@
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { parse as parseYaml } from 'yaml';
+import type { CompanyConfig, RoleConfig } from './fetchers/types.ts';
 
-export interface RssSourceConfig {
-  id: string;
-  url: string;
-  weight: number;
-  tags?: string[];
-  enabled?: boolean;
+export interface CompaniesFile {
+  companies: CompanyConfig[];
 }
 
-export interface SourcesConfig {
-  hn: {
-    enabled: boolean;
-    weight: number;
-    windowHours: number;
-    maxItems: number;
-  };
-  rss: RssSourceConfig[];
-}
-
-export interface TopicsConfig {
-  topK: number;
-  minScore: number;
-  truncateChars: number;
-  allowKeywords: string[];
-  denyKeywords: string[];
-  weights: {
-    keywordHit: number;
-    recencyMax: number;
-    hnPointsDivisor: number;
-    denyHit: number;
-  };
+export interface RolesFile {
+  roles: RoleConfig;
 }
 
 export interface AppConfig {
-  sources: SourcesConfig;
-  topics: TopicsConfig;
+  companies: CompanyConfig[];
+  roles: RoleConfig;
   telegramBotToken: string;
   telegramChatId: string;
   geminiApiKey: string;
@@ -58,8 +35,8 @@ function requiredEnv(name: string): string {
 }
 
 export function loadConfig(rootDir = process.cwd()): AppConfig {
-  const sources = loadYaml<SourcesConfig>(resolve(rootDir, 'config/sources.yaml'));
-  const topics = loadYaml<TopicsConfig>(resolve(rootDir, 'config/topics.yaml'));
+  const companiesData = loadYaml<CompaniesFile>(resolve(rootDir, 'config/companies.yaml'));
+  const rolesData = loadYaml<RolesFile>(resolve(rootDir, 'config/roles.yaml'));
   const dryRun = process.env.DRY_RUN === '1' || process.env.DRY_RUN === 'true';
 
   const telegramBotToken = dryRun
@@ -73,12 +50,12 @@ export function loadConfig(rootDir = process.cwd()): AppConfig {
     : requiredEnv('GEMINI_API_KEY');
 
   return {
-    sources,
-    topics,
+    companies: companiesData.companies ?? [],
+    roles: rolesData.roles ?? { include: [], exclude: [] },
     telegramBotToken,
     telegramChatId,
     geminiApiKey,
-    geminiModel: process.env.GEMINI_MODEL ?? 'gemini-3.5-flash-lite',
+    geminiModel: process.env.GEMINI_MODEL ?? 'gemini-2.5-flash',
     seenPath: resolve(rootDir, 'state/seen.json'),
     dryRun,
   };

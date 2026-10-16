@@ -1,0 +1,23 @@
+roles:
+  include:
+    - pattern: "(?:software|systems?|platform|infrastructure)\\s+(?:engineer|developer)|developer"
+      category: "software-engineer"
+    - pattern: "backend|back-end|api|server|golang|node\\.?js|python|java|kotlin|c\\+\\+|\\.net"
+      category: "backend"
+    - pattern: "fullstack|full-stack|full\\s+stack"
+      category: "fullstack"
+    - pattern: "ai\\s*(?:agent|engineer|ops|developer)|machine\\s*learning|ml\\s*(?:engineer|ops)|deep\\s*learning|llm|nlp"
+      category: "ai-agent"
+  exclude:
+    - "sales"
+    - "civil"
+    - "mechanical"
+    - "hr\\b"
+    - "human resources"
+    - "recruiter"
+    - "talent acquisition"
+    - "marketing"
+    - "accountant"
+    - "legal"
+    - "customer support"
+    - "call center"

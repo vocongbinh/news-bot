@@ -1,0 +1,47 @@
+companies:
+  # --- Tier 1 Priority Companies ---
+  - name: "Thoughtworks"
+    provider: "greenhouse"
+    token: "thoughtworks"
+    priority: 1
+
+  - name: "NAB Innovation Centre Vietnam"
+    provider: "workday"
+    subdomain: "nab"
+    companyId: "nab"
+    portal: "nab_careers"
+    priority: 1
+
+  - name: "SMG Swiss Marketplace Group"
+    provider: "smartrecruiters"
+    companyId: "SMGSwissMarketplaceGroup"
+    priority: 1
+
+  - name: "LeapXpert"
+    provider: "bamboohr"
+    subdomain: "leapxpert"
+    priority: 1
+
+  - name: "Employment Hero"
+    provider: "itviec"
+    slug: "employment-hero"
+    priority: 1
+
+  - name: "Grab"
+    provider: "smartrecruiters"
+    companyId: "Grab"
+    priority: 1
+
+  - name: "Axon"
+    provider: "greenhouse"
+    token: "axon"
+    priority: 1
+  - name: "KMS Technology"
+    provider: "smartrecruiters"
+    companyId: "KMSTechnology"
+    priority: 2
+
+  - name: "Money Forward Vietnam"
+    provider: "itviec"
+    slug: "money-forward-vietnam-co-ltd"
+    priority: 2

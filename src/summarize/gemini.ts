@@ -1,69 +1,91 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
-import type { ArticleSummary, RankedItem } from '../fetchers/types.ts';
-import { SYSTEM_PROMPT, buildUserPrompt } from './prompt.ts';
+import type { JobMatch, JobSummary } from '../fetchers/types.ts';
+import { JOB_SYSTEM_PROMPT, buildJobPrompt } from './prompt.ts';
 
-interface ModelJson {
-  skip?: boolean;
-  topicTags?: unknown;
-  readingMinutes?: unknown;
-  bullets?: unknown;
-  keyInsight?: unknown;
-  hook?: unknown;
+interface ModelJobJson {
+  techStack?: string;
+  requirements?: string;
+  highlights?: string;
+  bullets?: string[];
 }
 
-function asStringArray(value: unknown): string[] {
-  if (!Array.isArray(value)) return [];
-  return value.map((v) => String(v)).map((s) => s.trim()).filter(Boolean);
-}
-
-export async function summarizeArticle(input: {
+export async function summarizeJob(input: {
   apiKey: string;
   model: string;
-  item: RankedItem;
-  text: string;
+  match: JobMatch;
   dryRun?: boolean;
-}): Promise<ArticleSummary> {
-  if (input.dryRun) {
+}): Promise<JobSummary> {
+  const { match, dryRun, apiKey, model } = input;
+  const job = match.job;
+
+  if (dryRun) {
+    const techStack = job.tags?.length ? job.tags.join(', ') : 'Software Engineering & Cloud';
+    const requirements = `Matching categories: ${match.categories.join(', ')}`;
+    const highlights = `${job.location} · Verified MNC posting`;
     return {
-      item: input.item,
-      skip: false,
-      topicTags: input.item.source === 'hn' ? ['hn'] : ['rss'],
-      readingMinutes: Math.max(1, Math.ceil(input.text.split(/\s+/).length / 200)),
+      match,
+      techStack,
+      requirements,
+      highlights,
       bullets: [
-        'Dry-run bullet one',
-        'Dry-run bullet two',
-        'Dry-run bullet three',
+        `Tech: ${techStack}`,
+        `Requirements: ${requirements}`,
+        `Highlights: ${highlights}`,
       ],
-      keyInsight: 'Dry-run mode: LLM call skipped.',
     };
   }
 
-  const genAI = new GoogleGenerativeAI(input.apiKey);
-  const model = genAI.getGenerativeModel({
-    model: input.model,
-    systemInstruction: SYSTEM_PROMPT,
-    generationConfig: {
-      temperature: 0.3,
-      maxOutputTokens: 320,
-      responseMimeType: 'application/json',
-    },
-  });
+  try {
+    const genAI = new GoogleGenerativeAI(apiKey);
+    const generativeModel = genAI.getGenerativeModel({
+      model,
+      systemInstruction: JOB_SYSTEM_PROMPT,
+      generationConfig: {
+        temperature: 0.2,
+        maxOutputTokens: 350,
+        responseMimeType: 'application/json',
+      },
+    });
 
-  const result = await model.generateContent(buildUserPrompt(input.item, input.text));
-  const raw = result.response.text();
-  const parsed = JSON.parse(raw) as ModelJson;
-  const bullets = asStringArray(parsed.bullets).slice(0, 5);
-  const topicTags = asStringArray(parsed.topicTags).slice(0, 3);
-  const keyInsight = String(parsed.keyInsight ?? '').trim();
-  const skip = Boolean(parsed.skip) || bullets.length < 3 || !keyInsight;
+    const result = await generativeModel.generateContent(buildJobPrompt(match));
+    const raw = result.response.text();
+    const parsed = JSON.parse(raw) as ModelJobJson;
 
-  return {
-    item: input.item,
-    skip,
-    topicTags,
-    readingMinutes: Number(parsed.readingMinutes) || Math.max(1, Math.ceil(input.text.split(/\s+/).length / 200)),
-    bullets,
-    keyInsight: keyInsight || 'No insight provided.',
-    hook: parsed.hook ? String(parsed.hook) : undefined,
-  };
+    const techStack = parsed.techStack?.trim() || job.tags?.join(', ') || 'Software Architecture & Development';
+    const requirements = parsed.requirements?.trim() || `Experienced in ${match.categories.join(', ')}`;
+    const highlights = parsed.highlights?.trim() || job.location;
+
+    const bullets = Array.isArray(parsed.bullets) && parsed.bullets.length === 3
+      ? parsed.bullets.map((b) => b.trim())
+      : [
+          `Tech: ${techStack}`,
+          `Requirements: ${requirements}`,
+          `Highlights: ${highlights}`,
+        ];
+
+    return {
+      match,
+      techStack,
+      requirements,
+      highlights,
+      bullets,
+    };
+  } catch (err) {
+    const msg = err instanceof Error ? err.message : String(err);
+    console.warn(`[Gemini] Warning: summarization fallback for ${job.title}: ${msg}`);
+    const techStack = job.tags?.length ? job.tags.join(', ') : 'Software Engineering';
+    const requirements = `Matching categories: ${match.categories.join(', ')}`;
+    const highlights = `${job.location} · Direct Company Application`;
+    return {
+      match,
+      techStack,
+      requirements,
+      highlights,
+      bullets: [
+        `Tech: ${techStack}`,
+        `Requirements: ${requirements}`,
+        `Highlights: ${highlights}`,
+      ],
+    };
+  }
 }

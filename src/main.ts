@@ -1,12 +1,10 @@
 import { loadConfig } from './config.ts';
-import { extractArticle } from './extract/readability.ts';
-import { fetchHnTop } from './fetchers/hn.ts';
-import { fetchAllRss } from './fetchers/rss.ts';
-import type { ArticleSummary, RawItem } from './fetchers/types.ts';
-import { rankItems } from './filter/rank.ts';
+import { fetchAllCompanyJobs } from './fetchers/index.ts';
+import type { JobSummary } from './fetchers/types.ts';
+import { matchAndRankJobs } from './filter/matcher.ts';
 import { loadSeen, markSeen, pruneSeen, saveSeen } from './state/seen.ts';
-import { summarizeArticle } from './summarize/gemini.ts';
-import { buildArticleKeyboard, formatArticle, formatHeader } from './telegram/format.ts';
+import { summarizeJob } from './summarize/gemini.ts';
+import { buildJobKeyboard, formatJobCard, formatJobHeader } from './telegram/format.ts';
 import { sendDigestMessages } from './telegram/send.ts';
 import { formatDigestHeading, nowIso } from './util/time.ts';
 
@@ -32,88 +30,58 @@ async function main(): Promise<void> {
   const seen = loadSeen(config.seenPath);
   pruneSeen(seen, new Date(), 30);
 
-  const raw: RawItem[] = [];
-  raw.push(...(await fetchAllRss(config.sources.rss)));
-  if (config.sources.hn.enabled) {
-    try {
-      const hnItems = await fetchHnTop({
-        weightWindowHours: config.sources.hn.windowHours,
-        maxItems: config.sources.hn.maxItems,
-      });
-      raw.push(...hnItems);
-    } catch (err) {
-      console.warn('HN fetch failed:', err);
-    }
-  }
+  console.log(`[Ingest] Fetching jobs for ${config.companies.length} configured companies...`);
+  const rawJobs = await fetchAllCompanyJobs(config.companies, 3);
+  console.log(`[Ingest] Retrieved ${rawJobs.length} active jobs across all providers`);
 
-  const sourceWeights: Record<string, number> = { hn: config.sources.hn.weight };
-  for (const src of config.sources.rss) {
-    sourceWeights[src.id] = src.weight;
-    sourceWeights[`rss:${src.id}`] = src.weight;
-  }
+  // Deduplicate against previously notified jobs
+  const unseenJobs = rawJobs.filter((job) => !seen.items[job.id]);
+  console.log(`[Dedupe] ${unseenJobs.length} new/unseen jobs to evaluate`);
 
-  const ranked = rankItems(raw, seen, config.topics, sourceWeights);
-  console.log(`Fetched ${raw.length} items; selected ${ranked.length}`);
-  if (ranked.length === 0) {
+  if (unseenJobs.length === 0) {
     saveSeen(config.seenPath, seen);
+    console.log('[Pipeline] No new jobs to process.');
     return;
   }
 
-  const extracted = await mapLimit(ranked, 3, async (item) => ({
-    item,
-    extract: await extractArticle(item, config.topics.truncateChars),
-  }));
+  // Filter and rank matching target tech roles
+  const matches = matchAndRankJobs(unseenJobs, config.roles, config.companies);
+  console.log(`[Match] ${matches.length} jobs matched target Software & AI engineering criteria`);
 
-  const sendable: ArticleSummary[] = [];
-  for (const row of extracted) {
-    if (!row.extract.ok) {
-      const prev = seen.items[row.item.id];
-      const status = prev?.status === 'extract_failed' ? 'skipped' : 'extract_failed';
+  if (matches.length === 0) {
+    // Mark checked jobs as skipped so we don't re-evaluate non-matching jobs repeatedly
+    for (const job of unseenJobs) {
       markSeen(seen, {
-        id: row.item.id,
-        url: row.item.url,
-        title: row.item.title,
-        source: row.item.source,
-        status,
+        id: job.id,
+        url: job.url,
+        title: job.title,
+        source: job.company,
+        status: 'skipped',
+        at: nowIso(),
       });
-      continue;
     }
-
-    try {
-      const summary = await summarizeArticle({
-        apiKey: config.geminiApiKey,
-        model: config.geminiModel,
-        item: row.item,
-        text: row.extract.text,
-        dryRun: config.dryRun,
-      });
-      if (summary.skip) {
-        markSeen(seen, {
-          id: row.item.id,
-          url: row.item.url,
-          title: row.item.title,
-          source: row.item.source,
-          status: 'skipped',
-        });
-        continue;
-      }
-      sendable.push(summary);
-    } catch (err) {
-      console.warn(`summarize failed for ${row.item.id}:`, err);
-    }
-  }
-
-  if (sendable.length === 0) {
     saveSeen(config.seenPath, seen);
+    console.log('[Pipeline] No target engineering matches found in unseen postings.');
     return;
   }
+
+  // Cap at top 12 most relevant roles per digest
+  const topMatches = matches.slice(0, 12);
+  console.log(`[Summarize] Generating AI summaries for top ${topMatches.length} roles...`);
+
+  const summaries = await mapLimit(topMatches, 3, async (match) => {
+    return await summarizeJob({
+      apiKey: config.geminiApiKey,
+      model: config.geminiModel,
+      match,
+      dryRun: config.dryRun,
+    });
+  });
 
   const heading = formatDigestHeading();
-  const header = formatHeader({
-    emoji: heading.emoji,
-    label: heading.label,
+  const header = formatJobHeader({
     when: heading.when,
-    count: sendable.length,
+    count: summaries.length,
   });
 
   let sentCount = 0;
@@ -122,25 +90,25 @@ async function main(): Promise<void> {
       botToken: config.telegramBotToken,
       chatId: config.telegramChatId,
       header,
-      articles: sendable.map((summary) => ({
-        text: formatArticle(summary),
-        replyMarkup: buildArticleKeyboard(summary),
+      articles: summaries.map((summary) => ({
+        text: formatJobCard(summary),
+        replyMarkup: buildJobKeyboard(summary),
       })),
       dryRun: config.dryRun,
     });
   } catch (err) {
     const partial =
-      typeof err === 'object' && err && 'sentCount' in err
-        ? Number((err as { sentCount?: number }).sentCount ?? 0)
+      typeof err === 'object' && err !== null && 'sentCount' in err
+        ? Number(err.sentCount)
         : 0;
     sentCount = Number.isFinite(partial) ? partial : 0;
     for (let i = 0; i < sentCount; i++) {
-      const summary = sendable[i]!;
+      const summary = summaries[i]!;
       markSeen(seen, {
-        id: summary.item.id,
-        url: summary.item.url,
-        title: summary.item.title,
-        source: summary.item.source,
+        id: summary.match.job.id,
+        url: summary.match.job.url,
+        title: summary.match.job.title,
+        source: summary.match.job.company,
         status: 'sent',
         at: nowIso(),
       });
@@ -149,21 +117,22 @@ async function main(): Promise<void> {
     throw err;
   }
 
-  for (const summary of sendable.slice(0, sentCount)) {
+  for (const summary of summaries.slice(0, sentCount)) {
     markSeen(seen, {
-      id: summary.item.id,
-      url: summary.item.url,
-      title: summary.item.title,
-      source: summary.item.source,
+      id: summary.match.job.id,
+      url: summary.match.job.url,
+      title: summary.match.job.title,
+      source: summary.match.job.company,
       status: 'sent',
       at: nowIso(),
     });
   }
+
   saveSeen(config.seenPath, seen);
-  console.log(`Digest sent: ${sentCount} articles`);
+  console.log(`[Alert] Successfully dispatched ${sentCount} job alerts to Telegram!`);
 }
 
 main().catch((err) => {
-  console.error(err);
+  console.error('[Fatal Error]', err);
   process.exitCode = 1;
 });

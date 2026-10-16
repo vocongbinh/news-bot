@@ -1,54 +1,59 @@
 import { describe, expect, it } from 'vitest';
+import type { JobSummary } from '../../src/fetchers/types.ts';
 import {
+  buildJobKeyboard,
   escapeHtml,
-  formatHeader,
-  formatArticle,
-  buildArticleKeyboard,
+  formatJobCard,
+  formatJobHeader,
 } from '../../src/telegram/format.ts';
-import type { ArticleSummary } from '../../src/fetchers/types.ts';
 
-describe('telegram format', () => {
+describe('telegram job format', () => {
   it('escapes HTML entities', () => {
-    expect(escapeHtml('A <B> & C')).toBe('A &lt;B&gt; &amp; C');
+    expect(escapeHtml('C++ & <Java>')).toBe('C++ &amp; &lt;Java&gt;');
   });
 
-  it('formats header and article payloads', () => {
-    const summary: ArticleSummary = {
-      skip: false,
-      topicTags: ['system-design', 'interview'],
-      readingMinutes: 8,
-      bullets: ['One <trick>', 'Two', 'Three'],
-      keyInsight: 'Trade-offs beat slogans.',
-      item: {
-        id: 'hn:1',
-        url: 'https://example.com/a',
-        title: 'Design & Scale',
-        source: 'hn',
-        score: 12,
-        discussionUrl: 'https://news.ycombinator.com/item?id=1',
+  it('formats header and job cards accurately', () => {
+    const summary: JobSummary = {
+      match: {
+        job: {
+          id: 'workday:nab:123',
+          provider: 'workday',
+          company: 'NAB Innovation Centre Vietnam',
+          title: 'Senior Full-Stack Engineer <ECOM>',
+          location: 'Hanoi, Vietnam (Hybrid)',
+          url: 'https://nab.example.com/apply',
+        },
+        categories: ['fullstack', 'backend'],
+        priority: 120,
       },
+      techStack: 'React, Node.js, AWS & Docker',
+      requirements: '5+ years experience with microservices',
+      highlights: 'Hybrid work model, travel opportunities to Australia',
+      bullets: [],
     };
 
-    const header = formatHeader({
-      emoji: '☀️',
-      label: 'Morning Digest',
-      when: 'Thu 24 Sep, 07:00 ICT',
+    const header = formatJobHeader({
+      when: 'Fri 16 Oct, 08:00 ICT',
       count: 1,
     });
-    expect(header).toContain('<b>Morning Digest</b>');
-    expect(header).toContain('<code>1 picks</code>');
+    expect(header).toContain('Vietnam Tech Job Alert');
+    expect(header).toContain('1 cơ hội tuyển dụng MNC');
 
-    const body = formatArticle(summary);
-    expect(body).toContain('<b>Design &amp; Scale</b>');
-    expect(body).toContain('• One &lt;trick&gt;');
-    expect(body).toContain('Key insight');
+    const card = formatJobCard(summary);
+    expect(card).toContain('<b>NAB Innovation Centre Vietnam</b>');
+    expect(card).toContain('Senior Full-Stack Engineer &lt;ECOM&gt;');
+    expect(card).toContain('<code>#fullstack</code>');
+    expect(card).toContain('<code>#backend</code>');
+    expect(card).toContain('React, Node.js, AWS &amp; Docker');
 
-    const keyboard = buildArticleKeyboard(summary);
+    const keyboard = buildJobKeyboard(summary);
     expect(keyboard).toEqual({
       inline_keyboard: [
         [
-          { text: 'Read article', url: 'https://example.com/a' },
-          { text: 'HN discussion', url: 'https://news.ycombinator.com/item?id=1' },
+          {
+            text: '🚀 Ứng tuyển ngay (Apply)',
+            url: 'https://nab.example.com/apply',
+          },
         ],
       ],
     });

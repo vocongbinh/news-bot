@@ -1,4 +1,4 @@
-import type { ArticleSummary } from '../fetchers/types.ts';
+import type { JobSummary } from '../fetchers/types.ts';
 
 export function escapeHtml(input: string): string {
   return input
@@ -7,45 +7,40 @@ export function escapeHtml(input: string): string {
     .replaceAll('>', '&gt;');
 }
 
-export function formatHeader(input: {
-  emoji: string;
-  label: string;
+export function formatJobHeader(input: {
   when: string;
   count: number;
 }): string {
   return [
-    `${input.emoji} <b>${escapeHtml(input.label)}</b> · ${escapeHtml(input.when)}`,
-    `<code>${input.count} picks</code> for software engineers`,
+    `🎯 <b>Vietnam Tech Job Alert</b> · ${escapeHtml(input.when)}`,
+    `<code>${input.count} cơ hội tuyển dụng MNC</code> cho Software & AI Engineers:`,
   ].join('\n');
 }
 
-export function formatArticle(summary: ArticleSummary): string {
-  const tags = summary.topicTags
-    .slice(0, 3)
-    .map((t) => `<b>${escapeHtml(t)}</b>`)
-    .join(' · ');
-  const bullets = summary.bullets
-    .slice(0, 5)
-    .map((b) => `• ${escapeHtml(b)}`)
-    .join('\n');
+export function formatJobCard(summary: JobSummary): string {
+  const job = summary.match.job;
+  const categoriesText = summary.match.categories
+    .map((c) => `<code>#${escapeHtml(c)}</code>`)
+    .join(' ');
+
   return [
-    `🏷 ${tags}  ·  ⏱ ${summary.readingMinutes} min`,
-    `<b>${escapeHtml(summary.item.title)}</b>`,
+    `🏢 <b>${escapeHtml(job.company)}</b> · 📍 <i>${escapeHtml(job.location)}</i>`,
+    `💼 <b>${escapeHtml(job.title)}</b>`,
+    categoriesText ? `🏷 ${categoriesText}` : '',
     '',
-    bullets,
-    '',
-    `💡 <i>Key insight: ${escapeHtml(summary.keyInsight)}</i>`,
-  ].join('\n');
+    `🛠 <b>Tech Stack:</b> ${escapeHtml(summary.techStack)}`,
+    `🎯 <b>Yêu cầu:</b> ${escapeHtml(summary.requirements)}`,
+    `🌟 <b>Đãi ngộ & Chế độ:</b> ${escapeHtml(summary.highlights)}`,
+  ]
+    .filter((line) => line !== null)
+    .join('\n');
 }
 
-export function buildArticleKeyboard(summary: ArticleSummary): {
+export function buildJobKeyboard(summary: JobSummary): {
   inline_keyboard: { text: string; url: string }[][];
 } {
   const row: { text: string; url: string }[] = [
-    { text: 'Read article', url: summary.item.url },
+    { text: '🚀 Ứng tuyển ngay (Apply)', url: summary.match.job.url },
   ];
-  if (summary.item.discussionUrl) {
-    row.push({ text: 'HN discussion', url: summary.item.discussionUrl });
-  }
   return { inline_keyboard: [row] };
 }
