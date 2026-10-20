@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T10:26:20+07:00",
+  "updatedAt": "2026-10-20T16:44:50+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1516,6 +1516,13 @@
       "title": "Director of Public Safety, Axon 911 (Pacific Region)",
       "source": "Axon",
       "seenAt": "2026-10-20T10:26:20+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122331-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Senior-Talent-Acquisition--Contingent-Workforce-Management-_JR122331-1",
+      "title": "Senior Talent Acquisition (Contingent Workforce Management)",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-10-20T16:44:50+07:00",
       "status": "skipped"
     }
   }
