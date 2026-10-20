@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T01:33:18+07:00",
+  "updatedAt": "2026-10-20T10:26:20+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1509,6 +1509,13 @@
       "title": "Account Manager, Majors",
       "source": "Axon",
       "seenAt": "2026-10-20T01:33:18+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8038207003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8038207003",
+      "title": "Director of Public Safety, Axon 911 (Pacific Region)",
+      "source": "Axon",
+      "seenAt": "2026-10-20T10:26:20+07:00",
       "status": "skipped"
     }
   }
