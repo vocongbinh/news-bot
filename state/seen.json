@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T16:46:26+07:00",
+  "updatedAt": "2026-10-21T23:54:15+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1532,6 +1532,13 @@
       "seenAt": "2026-10-21T16:46:26+07:00",
       "digestAt": "2026-10-21T16:46:26+07:00",
       "status": "sent"
+    },
+    "smartrecruiters:Grab:744000156705769": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000156705769",
+      "title": "Head, Cluster Controllership & Finance Governance",
+      "source": "Grab",
+      "seenAt": "2026-10-21T23:54:15+07:00",
+      "status": "skipped"
     }
   }
 }
