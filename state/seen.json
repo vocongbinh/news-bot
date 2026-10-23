@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T23:54:02+07:00",
+  "updatedAt": "2026-10-23T10:25:04+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1553,6 +1553,13 @@
       "title": "Technical Account Manager",
       "source": "Axon",
       "seenAt": "2026-10-22T23:54:02+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8031372003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8031372003",
+      "title": "Technical Account Manager",
+      "source": "Axon",
+      "seenAt": "2026-10-23T10:25:04+07:00",
       "status": "skipped"
     }
   }
