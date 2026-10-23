@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T16:42:07+07:00",
+  "updatedAt": "2026-10-23T23:45:52+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1569,6 +1569,20 @@
       "seenAt": "2026-10-23T16:42:07+07:00",
       "digestAt": "2026-10-23T16:42:07+07:00",
       "status": "sent"
+    },
+    "greenhouse:axon:8042613003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8042613003",
+      "title": "Sales Engineer",
+      "source": "Axon",
+      "seenAt": "2026-10-23T23:45:52+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7566100003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7566100003",
+      "title": "Senior Sales Engineer",
+      "source": "Axon",
+      "seenAt": "2026-10-23T23:45:52+07:00",
+      "status": "skipped"
     }
   }
 }
