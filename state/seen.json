@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T10:25:04+07:00",
+  "updatedAt": "2026-10-23T16:42:07+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1561,6 +1561,14 @@
       "source": "Axon",
       "seenAt": "2026-10-23T10:25:04+07:00",
       "status": "skipped"
+    },
+    "itviec:money-forward-vietnam-co-ltd:principal-software-engineer-node-js-typescript-money-forward-vietnam-co-ltd-4158": {
+      "url": "https://itviec.com/it-jobs/principal-software-engineer-node-js-typescript-money-forward-vietnam-co-ltd-4158",
+      "title": "Principal Software Engineer (Node.js/TypeScript)",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-10-23T16:42:07+07:00",
+      "digestAt": "2026-10-23T16:42:07+07:00",
+      "status": "sent"
     }
   }
 }
