@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T23:45:52+07:00",
+  "updatedAt": "2026-10-24T10:19:24+07:00",
   "items": {
     "rss:simonwillison:4e32c351abd8d17d": {
       "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
@@ -1582,6 +1582,41 @@
       "title": "Senior Sales Engineer",
       "source": "Axon",
       "seenAt": "2026-10-23T23:45:52+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8043302003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8043302003",
+      "title": "Mission Engineer - Miami",
+      "source": "Axon",
+      "seenAt": "2026-10-24T10:19:24+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8043303003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8043303003",
+      "title": "Mission Engineer - Orlando & Seiminole County",
+      "source": "Axon",
+      "seenAt": "2026-10-24T10:19:24+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8043306003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8043306003",
+      "title": "Mission Engineer - Pasco County",
+      "source": "Axon",
+      "seenAt": "2026-10-24T10:19:24+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8043304003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8043304003",
+      "title": "Mission Engineer - Port St. Lucie, Florida",
+      "source": "Axon",
+      "seenAt": "2026-10-24T10:19:24+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8043315003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8043315003",
+      "title": "Mission Engineer - Tampa",
+      "source": "Axon",
+      "seenAt": "2026-10-24T10:19:24+07:00",
       "status": "skipped"
     }
   }
