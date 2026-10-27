@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T17:09:05+07:00",
+  "updatedAt": "2026-10-28T24:44:55+07:00",
   "items": {
     "rss:simonwillison:7db4974c11ebd58e": {
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
@@ -1292,6 +1292,20 @@
       "title": "Business Analyst Manager",
       "source": "NAB Innovation Centre Vietnam",
       "seenAt": "2026-10-27T17:09:05+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000157997299": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000157997299",
+      "title": "Senior DevOps Engineer, Streaming Platform",
+      "source": "Grab",
+      "seenAt": "2026-10-28T24:44:55+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000157987619": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000157987619",
+      "title": "Senior DevOps Engineer",
+      "source": "Grab",
+      "seenAt": "2026-10-28T24:44:55+07:00",
       "status": "skipped"
     }
   }
