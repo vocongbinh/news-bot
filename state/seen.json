@@ -1,15 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T01:30:48+07:00",
+  "updatedAt": "2026-10-27T10:44:45+07:00",
   "items": {
-    "rss:simonwillison:669d8cd0cb0cb12c": {
-      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-      "title": "Kākāpō Party",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-09-27T10:43:06+07:00",
-      "digestAt": "2026-09-27T10:43:06+07:00",
-      "status": "sent"
-    },
     "rss:simonwillison:7db4974c11ebd58e": {
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
       "title": "2026 in LLMs (so far)",
