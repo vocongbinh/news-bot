@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T24:51:55+07:00",
+  "updatedAt": "2026-10-31T11:05:58+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1243,6 +1243,14 @@
       "source": "Money Forward Vietnam",
       "seenAt": "2026-10-29T11:25:24+07:00",
       "digestAt": "2026-10-29T11:25:24+07:00",
+      "status": "sent"
+    },
+    "greenhouse:axon:8010024003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8010024003",
+      "title": "Mission Engineer II - Grand Rapids",
+      "source": "Axon",
+      "seenAt": "2026-10-31T11:05:58+07:00",
+      "digestAt": "2026-10-31T11:05:58+07:00",
       "status": "sent"
     }
   }
