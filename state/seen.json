@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:29:30+07:00",
+  "updatedAt": "2026-11-02T19:59:27+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1237,6 +1237,62 @@
       "seenAt": "2026-10-31T11:05:58+07:00",
       "digestAt": "2026-10-31T11:05:58+07:00",
       "status": "sent"
+    },
+    "workday:nab:JR122718": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Hanoi-Vietnam/Associate--IT-IS_JR122718",
+      "title": "Associate, IT/IS",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR101983": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/DevOps-Engineer--All-levels----NAB-Vietnam_JR101983",
+      "title": "Consultant, DevOps/ Cloud Engineer - NCP",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120391": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Capital-Place-29-Lieu-Giai-Street-Ngoc-Ha-Ward-Hanoi-VNM/Lead--P2P_JR120391",
+      "title": "Lead, P2P",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120874": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Head-of-Product---Merchant-Services---HICAPS--_JR120874",
+      "title": "Head of Product ( Merchant Services & HICAPS)​",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR115938": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Head-of-Engineering---Customer-Enabling-Technology_JR115938",
+      "title": "Head of Engineering - Customer Enabling Technology",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121116": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Capital-Place-29-Lieu-Giai-Street-Ngoc-Ha-Ward-Hanoi-VNM/Practice-Engineer---Architecture---tooling_JR121116",
+      "title": "Practice Engineer - Architecture & tooling",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR110931": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Capital-Place-29-Lieu-Giai-Street-Ngoc-Ha-Ward-Hanoi-VNM/Senior-Talent-Acquisition-Business-Partner_JR110931",
+      "title": "Senior/ Consultant, Talent Acquisition",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000159048889": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000159048889",
+      "title": "Senior Solution Specialist, People Systems (Compensation and Core HCM)",
+      "source": "Grab",
+      "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
     }
   }
 }
