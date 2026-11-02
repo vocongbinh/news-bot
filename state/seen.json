@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T19:59:27+07:00",
+  "updatedAt": "2026-11-03T04:33:50+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1292,6 +1292,13 @@
       "title": "Senior Solution Specialist, People Systems (Compensation and Core HCM)",
       "source": "Grab",
       "seenAt": "2026-11-02T19:59:27+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8042296003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8042296003",
+      "title": "Technical Account Manager",
+      "source": "Axon",
+      "seenAt": "2026-11-03T04:33:50+07:00",
       "status": "skipped"
     }
   }
