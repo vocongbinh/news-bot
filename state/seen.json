@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T12:24:28+07:00",
+  "updatedAt": "2026-11-03T19:32:56+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1277,6 +1277,20 @@
       "title": "Technical Account Manager",
       "source": "Axon",
       "seenAt": "2026-11-03T04:33:50+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122724": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Project-Analyst---Home-Ownership_JR122724",
+      "title": "Senior Project Analyst - Home Ownership",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-03T19:32:56+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000159308659": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000159308659",
+      "title": "Lead Product Manager, Grab Support",
+      "source": "Grab",
+      "seenAt": "2026-11-03T19:32:56+07:00",
       "status": "skipped"
     }
   }
