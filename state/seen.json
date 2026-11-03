@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T19:32:56+07:00",
+  "updatedAt": "2026-11-04T02:17:00+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1291,6 +1291,13 @@
       "title": "Lead Product Manager, Grab Support",
       "source": "Grab",
       "seenAt": "2026-11-03T19:32:56+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8043967003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8043967003",
+      "title": "Account Executive, UK Public Sector",
+      "source": "Axon",
+      "seenAt": "2026-11-04T02:17:00+07:00",
       "status": "skipped"
     }
   }
