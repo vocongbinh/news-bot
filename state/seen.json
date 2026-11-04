@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T11:52:26+07:00",
+  "updatedAt": "2026-11-04T19:42:53+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1298,6 +1298,41 @@
       "title": "Account Executive, UK Public Sector",
       "source": "Axon",
       "seenAt": "2026-11-04T02:17:00+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121894-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Capital-Place-29-Lieu-Giai-Street-Ngoc-Ha-Ward-Hanoi-VNM/Network-Engineer---Tech-Lounge---AV_JR121894-1",
+      "title": "Analyst, AVVC Events Engineer - Tech Lounge & AV",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-04T19:42:53+07:00",
+      "status": "skipped"
+    },
+    "bamboohr:leapxpert:210": {
+      "url": "https://leapxpert.bamboohr.com/careers/210",
+      "title": "Senior QA Engineer",
+      "source": "LeapXpert",
+      "seenAt": "2026-11-04T19:42:53+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000159578119": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000159578119",
+      "title": "Manager II, Country IT (VN",
+      "source": "Grab",
+      "seenAt": "2026-11-04T19:42:53+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8189009003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8189009003",
+      "title": "Field Deployment Engineer, Northern Europe",
+      "source": "Axon",
+      "seenAt": "2026-11-04T19:42:53+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8188989003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8188989003",
+      "title": "Regional Support Manager, Northern Europe",
+      "source": "Axon",
+      "seenAt": "2026-11-04T19:42:53+07:00",
       "status": "skipped"
     }
   }
