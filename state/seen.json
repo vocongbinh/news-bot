@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T12:09:41+07:00",
+  "updatedAt": "2026-11-05T19:52:33+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1302,6 +1302,13 @@
       "title": "Regional Support Manager, Northern Europe",
       "source": "Axon",
       "seenAt": "2026-11-04T19:42:53+07:00",
+      "status": "skipped"
+    },
+    "itviec:money-forward-vietnam-co-ltd:chief-information-security-officer-money-forward-vietnam-co-ltd-3837": {
+      "url": "https://itviec.com/it-jobs/chief-information-security-officer-money-forward-vietnam-co-ltd-3837",
+      "title": "Chief Information Security Officer",
+      "source": "Money Forward Vietnam",
+      "seenAt": "2026-11-05T19:52:33+07:00",
       "status": "skipped"
     }
   }
