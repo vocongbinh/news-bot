@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:09:14+07:00",
+  "updatedAt": "2026-11-06T19:38:19+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -24,25 +24,11 @@
       "seenAt": "2026-10-08T01:41:17+07:00",
       "status": "skipped"
     },
-    "rss:simonwillison:6218e0219f6856f2": {
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "title": "Mistral Large 4",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T18:27:27+07:00",
-      "status": "skipped"
-    },
     "rss:simonwillison:85aa24163c1d7e9a": {
       "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
       "title": "datasette-atom 0.11a0",
       "source": "rss:simonwillison",
       "seenAt": "2026-10-08T01:41:17+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:56224676afd39a97": {
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-      "title": "Quoting Jake Boggan",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T18:27:28+07:00",
       "status": "skipped"
     },
     "rss:simonwillison:4c30b4b05fcb88be": {
