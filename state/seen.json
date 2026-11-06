@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T02:42:58+07:00",
+  "updatedAt": "2026-11-06T12:09:14+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -15,53 +15,6 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:d1e512dab3854dc0": {
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
-      "title": "Quoting Victoria Kim",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T11:21:46+07:00",
-      "status": "skipped"
-    },
-    "rss:simonwillison:62c509640c5df97d": {
-      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
-      "title": "llm-openai-decisions 0.1a0",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T11:21:52+07:00",
-      "digestAt": "2026-10-07T11:21:52+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:16278565d5091551": {
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T11:21:52+07:00",
-      "digestAt": "2026-10-07T11:21:52+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:a919ba35a5e056c2": {
-      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T11:21:52+07:00",
-      "digestAt": "2026-10-07T11:21:52+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:1f6a7ac23b124288": {
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "title": "EmbeddingGemma 2",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T11:21:52+07:00",
-      "digestAt": "2026-10-07T11:21:52+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:0e8219bd64331ee3": {
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-07T11:21:52+07:00",
-      "digestAt": "2026-10-07T11:21:52+07:00",
       "status": "sent"
     },
     "rss:simonwillison:1244a96b60ce1871": {
@@ -1301,6 +1254,13 @@
       "title": "Chief Information Security Officer",
       "source": "Money Forward Vietnam",
       "seenAt": "2026-11-05T19:52:33+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8194118003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8194118003",
+      "title": "Account Executive, Axon 911",
+      "source": "Axon",
+      "seenAt": "2026-11-06T12:09:14+07:00",
       "status": "skipped"
     }
   }
