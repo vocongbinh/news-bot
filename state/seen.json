@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T11:42:06+07:00",
+  "updatedAt": "2026-11-09T20:30:56+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1163,6 +1163,13 @@
       "title": "Strategic Account Executive, Air Majors",
       "source": "Axon",
       "seenAt": "2026-11-07T02:06:08+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7997833003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7997833003",
+      "title": "iOS Engineer I",
+      "source": "Axon",
+      "seenAt": "2026-11-09T20:30:56+07:00",
       "status": "skipped"
     }
   }
