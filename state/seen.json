@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T02:29:20+07:00",
+  "updatedAt": "2026-11-11T11:44:53+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1162,6 +1162,13 @@
       "title": "Manager II, Country IT",
       "source": "Grab",
       "seenAt": "2026-11-10T20:10:16+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122840-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Executive-Assistant_JR122840-1",
+      "title": "Executive Assistant",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-11T11:44:53+07:00",
       "status": "skipped"
     }
   }
