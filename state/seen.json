@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T11:44:53+07:00",
+  "updatedAt": "2026-11-11T19:19:36+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -1169,6 +1169,34 @@
       "title": "Executive Assistant",
       "source": "NAB Innovation Centre Vietnam",
       "seenAt": "2026-11-11T11:44:53+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122871-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Hanoi-Vietnam/IT-IS--All-levels-_JR122871-1",
+      "title": "IT/IS (All levels)",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-11T19:19:36+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000161063715": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000161063715",
+      "title": "Senior Software Engineer, Backend",
+      "source": "Grab",
+      "seenAt": "2026-11-11T19:19:36+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000161058329": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000161058329",
+      "title": "Senior Software Engineer, Streaming Platform",
+      "source": "Grab",
+      "seenAt": "2026-11-11T19:19:36+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000161025500": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000161025500",
+      "title": "Assistant Marketing Manager for Grab Ecommerce",
+      "source": "Grab",
+      "seenAt": "2026-11-11T19:19:36+07:00",
       "status": "skipped"
     }
   }
