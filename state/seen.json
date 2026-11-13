@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T02:42:31+07:00",
+  "updatedAt": "2026-11-13T12:06:45+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -23,38 +23,6 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-14T16:52:15+07:00",
       "status": "skipped"
-    },
-    "rss:simonwillison:39b03f627696e97f": {
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "title": "llm-gemini 0.35",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-14T10:34:49+07:00",
-      "digestAt": "2026-10-14T10:34:49+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:f99ea621acd6e4bb": {
-      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-      "title": "llm-meta-ai 0.2",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-14T10:34:49+07:00",
-      "digestAt": "2026-10-14T10:34:49+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:9c11d7169c7fa53a": {
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-14T10:34:49+07:00",
-      "digestAt": "2026-10-14T10:34:49+07:00",
-      "status": "sent"
-    },
-    "rss:simonwillison:fdc555784f183633": {
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "title": "Redesigning source control at Anthropic",
-      "source": "rss:simonwillison",
-      "seenAt": "2026-10-14T10:34:49+07:00",
-      "digestAt": "2026-10-14T10:34:49+07:00",
-      "status": "sent"
     },
     "rss:simonwillison:8b2cab1489374fa7": {
       "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
@@ -1201,6 +1169,20 @@
       "title": "Associate, Commercial Planning - Enterprise",
       "source": "Grab",
       "seenAt": "2026-11-12T20:28:37+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122146": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Business-Analyst---C-IB_JR122146",
+      "title": "Business Analyst - C&IB",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-13T12:06:45+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000161421029": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000161421029",
+      "title": "Senior Software Engineer, Gateway Platform",
+      "source": "Grab",
+      "seenAt": "2026-11-13T12:06:45+07:00",
       "status": "skipped"
     }
   }
