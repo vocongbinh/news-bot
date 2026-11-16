@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T20:17:01+07:00",
+  "updatedAt": "2026-11-17T04:48:53+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -796,6 +796,13 @@
       "title": "Senior Software Engineer, Mobile (iOS)",
       "source": "Grab",
       "seenAt": "2026-11-16T20:17:01+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:7827166003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7827166003",
+      "title": "Regional Account Executive",
+      "source": "Axon",
+      "seenAt": "2026-11-17T04:48:53+07:00",
       "status": "skipped"
     }
   }
