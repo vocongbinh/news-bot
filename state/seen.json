@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T01:39:10+07:00",
+  "updatedAt": "2026-11-16T11:47:14+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,13 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "greenhouse:axon:8008864003": {
-      "url": "https://job-boards.greenhouse.io/axon/jobs/8008864003",
-      "title": "Mission Operator - Albuquerque Police Department",
-      "source": "Axon",
-      "seenAt": "2026-10-17T10:01:23+07:00",
-      "status": "skipped"
     },
     "greenhouse:axon:8037289003": {
       "url": "https://job-boards.greenhouse.io/axon/jobs/8037289003",
@@ -782,6 +775,20 @@
       "title": "Technical Account Manager",
       "source": "Axon",
       "seenAt": "2026-11-15T19:24:38+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000161722604": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000161722604",
+      "title": "Senior Software Engineer, Fullstack",
+      "source": "Grab",
+      "seenAt": "2026-11-16T11:47:14+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8008864003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8008864003",
+      "title": "Mission Operator - Albuquerque Police Department",
+      "source": "Axon",
+      "seenAt": "2026-11-16T11:47:14+07:00",
       "status": "skipped"
     }
   }
