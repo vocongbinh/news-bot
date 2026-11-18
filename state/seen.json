@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T20:36:20+07:00",
+  "updatedAt": "2026-11-19T03:12:50+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,13 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "greenhouse:axon:8037289003": {
-      "url": "https://job-boards.greenhouse.io/axon/jobs/8037289003",
-      "title": "Account Manager, Majors",
-      "source": "Axon",
-      "seenAt": "2026-10-20T01:33:18+07:00",
-      "status": "skipped"
     },
     "greenhouse:axon:8038207003": {
       "url": "https://job-boards.greenhouse.io/axon/jobs/8038207003",
@@ -845,6 +838,13 @@
       "title": "Senior Software Engineer, Backend",
       "source": "Grab",
       "seenAt": "2026-11-18T12:55:56+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8037289003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8037289003",
+      "title": "Account Manager, Majors",
+      "source": "Axon",
+      "seenAt": "2026-11-19T03:12:50+07:00",
       "status": "skipped"
     }
   }
