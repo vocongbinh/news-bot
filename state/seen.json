@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T03:39:23+07:00",
+  "updatedAt": "2026-11-18T12:55:56+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -817,6 +817,34 @@
       "title": "Security Consultant - Group Security",
       "source": "NAB Innovation Centre Vietnam",
       "seenAt": "2026-11-17T13:34:50+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121875": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Digital-Marketing-Analytics-Consultant_JR121875",
+      "title": "Digital Marketing Analytics Consultant",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-18T12:55:56+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162219359": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162219359",
+      "title": "Associate, Business Development - eCommerce",
+      "source": "Grab",
+      "seenAt": "2026-11-18T12:55:56+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162216860": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162216860",
+      "title": "Specialist, Growth Enablement",
+      "source": "Grab",
+      "seenAt": "2026-11-18T12:55:56+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162216099": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162216099",
+      "title": "Senior Software Engineer, Backend",
+      "source": "Grab",
+      "seenAt": "2026-11-18T12:55:56+07:00",
       "status": "skipped"
     }
   }
