@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T12:56:16+07:00",
+  "updatedAt": "2026-11-19T21:02:28+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,13 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "workday:nab:JR122331-1": {
-      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Senior-Talent-Acquisition--Contingent-Workforce-Management-_JR122331-1",
-      "title": "Senior Talent Acquisition (Contingent Workforce Management)",
-      "source": "NAB Innovation Centre Vietnam",
-      "seenAt": "2026-10-20T16:44:50+07:00",
-      "status": "skipped"
     },
     "itviec:money-forward-vietnam-co-ltd:hanoi-principal-lead-fullstack-qa-engineer-auto-ai-money-forward-vietnam-co-ltd-4311": {
       "url": "https://itviec.com/it-jobs/hanoi-principal-lead-fullstack-qa-engineer-auto-ai-money-forward-vietnam-co-ltd-4311",
@@ -852,6 +845,48 @@
       "title": "Director of Sales, Corrections (Remote)",
       "source": "Axon",
       "seenAt": "2026-11-19T12:56:16+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122979": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Consultant--TA-Market-Insights_JR122979",
+      "title": "Consultant, TA Market Insights",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-19T21:02:28+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162460985": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162460985",
+      "title": "Senior Program Management Analyst, Tech Financial Operations & Automation",
+      "source": "Grab",
+      "seenAt": "2026-11-19T21:02:28+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162451524": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162451524",
+      "title": "Senior Associate, Business Development - eCommerce",
+      "source": "Grab",
+      "seenAt": "2026-11-19T21:02:28+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162448536": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162448536",
+      "title": "Associate, Business Development - eCommerce",
+      "source": "Grab",
+      "seenAt": "2026-11-19T21:02:28+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162450929": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162450929",
+      "title": "Account Management Associate, GrabMart",
+      "source": "Grab",
+      "seenAt": "2026-11-19T21:02:28+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162450429": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162450429",
+      "title": "Specialist, Campaign Planning - Mart (eCommerce)",
+      "source": "Grab",
+      "seenAt": "2026-11-19T21:02:28+07:00",
       "status": "skipped"
     }
   }
