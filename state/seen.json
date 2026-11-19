@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T03:12:50+07:00",
+  "updatedAt": "2026-11-19T12:56:16+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,13 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "greenhouse:axon:8038207003": {
-      "url": "https://job-boards.greenhouse.io/axon/jobs/8038207003",
-      "title": "Director of Public Safety, Axon 911 (Pacific Region)",
-      "source": "Axon",
-      "seenAt": "2026-10-20T10:26:20+07:00",
-      "status": "skipped"
     },
     "workday:nab:JR122331-1": {
       "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Senior-Talent-Acquisition--Contingent-Workforce-Management-_JR122331-1",
@@ -845,6 +838,20 @@
       "title": "Account Manager, Majors",
       "source": "Axon",
       "seenAt": "2026-11-19T03:12:50+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162429669": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162429669",
+      "title": "Senior Associate, Driver Engagement & Social Strategy",
+      "source": "Grab",
+      "seenAt": "2026-11-19T12:56:16+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:axon:8207805003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8207805003",
+      "title": "Director of Sales, Corrections (Remote)",
+      "source": "Axon",
+      "seenAt": "2026-11-19T12:56:16+07:00",
       "status": "skipped"
     }
   }
