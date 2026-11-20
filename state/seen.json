@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T03:16:31+07:00",
+  "updatedAt": "2026-11-20T12:44:36+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -887,6 +887,13 @@
       "title": "Specialist, Campaign Planning - Mart (eCommerce)",
       "source": "Grab",
       "seenAt": "2026-11-19T21:02:28+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162651429": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162651429",
+      "title": "Associate, Self-Serve Platform Growth",
+      "source": "Grab",
+      "seenAt": "2026-11-20T12:44:36+07:00",
       "status": "skipped"
     }
   }
