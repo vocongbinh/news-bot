@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T20:45:38+07:00",
+  "updatedAt": "2026-11-21T02:48:09+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,13 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "smartrecruiters:Grab:744000156705769": {
-      "url": "https://jobs.smartrecruiters.com/Grab/744000156705769",
-      "title": "Head, Cluster Controllership & Finance Governance",
-      "source": "Grab",
-      "seenAt": "2026-10-21T23:54:15+07:00",
-      "status": "skipped"
     },
     "itviec:money-forward-vietnam-co-ltd:software-engineer-intern-money-forward-vietnam-co-ltd-4718": {
       "url": "https://itviec.com/it-jobs/software-engineer-intern-money-forward-vietnam-co-ltd-4718",
