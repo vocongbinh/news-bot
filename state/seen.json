@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T12:44:36+07:00",
+  "updatedAt": "2026-11-20T20:45:38+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -15,14 +15,6 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
-      "status": "sent"
-    },
-    "itviec:money-forward-vietnam-co-ltd:hanoi-principal-lead-fullstack-qa-engineer-auto-ai-money-forward-vietnam-co-ltd-4311": {
-      "url": "https://itviec.com/it-jobs/hanoi-principal-lead-fullstack-qa-engineer-auto-ai-money-forward-vietnam-co-ltd-4311",
-      "title": "[Hanoi] Principal/Lead Fullstack QA Engineer (Auto, AI)",
-      "source": "Money Forward Vietnam",
-      "seenAt": "2026-10-21T16:46:26+07:00",
-      "digestAt": "2026-10-21T16:46:26+07:00",
       "status": "sent"
     },
     "smartrecruiters:Grab:744000156705769": {
@@ -894,6 +886,34 @@
       "title": "Associate, Self-Serve Platform Growth",
       "source": "Grab",
       "seenAt": "2026-11-20T12:44:36+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121610": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Capital-Place-29-Lieu-Giai-Street-Ngoc-Ha-Ward-Hanoi-VNM/Associate--IT-Support_JR121610",
+      "title": "Associate, IT Support",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-20T20:45:38+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121968-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Head-of-Insights-and-Analytics_JR121968-1",
+      "title": "Head of Insights and Analytics",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-20T20:45:38+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120091": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Engineering-Manager---Technology-Risk--GRACE_JR120091",
+      "title": "Engineering Manager - Technology Risk, GRACE",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-20T20:45:38+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000162678179": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000162678179",
+      "title": "Senior Manager, Public Affairs",
+      "source": "Grab",
+      "seenAt": "2026-11-20T20:45:38+07:00",
       "status": "skipped"
     }
   }
