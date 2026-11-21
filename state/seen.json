@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T20:11:27+07:00",
+  "updatedAt": "2026-11-22T01:54:36+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,13 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "greenhouse:axon:8041434003": {
-      "url": "https://job-boards.greenhouse.io/axon/jobs/8041434003",
-      "title": "Technical Account Manager",
-      "source": "Axon",
-      "seenAt": "2026-10-22T23:54:02+07:00",
-      "status": "skipped"
     },
     "greenhouse:axon:8031372003": {
       "url": "https://job-boards.greenhouse.io/axon/jobs/8031372003",
@@ -3299,6 +3292,13 @@
       "seenAt": "2026-11-21T20:11:27+07:00",
       "digestAt": "2026-11-21T20:11:27+07:00",
       "status": "sent"
+    },
+    "linkedin:4493212389": {
+      "url": "https://vn.linkedin.com/jobs/view/firmware-engineer-intern-at-motorola-solutions-4493212389",
+      "title": "Firmware Engineer Intern",
+      "source": "Motorola Solutions",
+      "seenAt": "2026-11-22T01:54:36+07:00",
+      "status": "skipped"
     }
   }
 }
