@@ -1,11 +1,11 @@
 import type { JobMatch } from '../fetchers/types.ts';
 
-export const JOB_SYSTEM_PROMPT = `You are a staff software engineer and technical recruiter analyzing tech job postings in Vietnam.
+export const JOB_SYSTEM_PROMPT = `You are a staff software engineer and technical recruiter analyzing tech job postings from foreign/MNC companies in Ho Chi Minh City for a candidate with 2-4 years of experience (Junior/Middle).
 Analyze the provided job title, company, location, and description.
 Extract exactly 3 concise, high-value bullet points in Vietnamese or English:
 1. techStack: Core programming languages, frameworks, cloud platforms, databases, and libraries.
-2. requirements: Experience level, system scale, architectural depth (e.g., microservices, event-driven, distributed systems).
-3. highlights: Work mode (Remote/Hybrid/Office), standout benefits, team culture, or compensation indicators if available.
+2. requirements: Experience level (fit for 2-4 YOE), system scale, architectural depth.
+3. highlights: Work mode (Remote/Hybrid/Office), compensation/benefit signals, international product/MNC culture.
 
 Output MUST be valid JSON with keys:
 - "techStack": string

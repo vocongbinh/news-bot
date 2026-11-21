@@ -1,13 +1,19 @@
 import { describe, expect, it } from 'vitest';
+import { fetchAshbyJobs } from '../../src/fetchers/ashby.ts';
 import { fetchBambooHrJobs } from '../../src/fetchers/bamboohr.ts';
 import { fetchGreenhouseJobs } from '../../src/fetchers/greenhouse.ts';
 import { fetchAllCompanyJobs } from '../../src/fetchers/index.ts';
 import { fetchItviecJobs } from '../../src/fetchers/itviec.ts';
+import { fetchLeverJobs } from '../../src/fetchers/lever.ts';
+import { parseLinkedInGuestHtml } from '../../src/fetchers/linkedin.ts';
 import { fetchSmartRecruitersJobs } from '../../src/fetchers/smartrecruiters.ts';
 import type {
+  AshbyCompanyConfig,
   BambooHrCompanyConfig,
   GreenhouseCompanyConfig,
   ItviecCompanyConfig,
+  LeverCompanyConfig,
+  LinkedInCompanyConfig,
   SmartRecruitersCompanyConfig,
   WorkdayCompanyConfig,
 } from '../../src/fetchers/types.ts';
@@ -163,6 +169,101 @@ describe('ATS Adapters', () => {
     expect(jobs[0].title).toBe('Senior Backend Engineer');
     expect(jobs[0].url).toBe('https://itviec.com/it-jobs/senior-backend-engineer-employment-hero-1122');
     expect(jobs[0].tags).toEqual(['Ruby on Rails']);
+  });
+
+  it('fetchLeverJobs filters Vietnam jobs from Lever postings', async () => {
+    const config: LeverCompanyConfig = {
+      name: 'ShopBack',
+      provider: 'lever',
+      slug: 'shopback-2',
+    };
+
+    const mockFetch = (async () => [
+      {
+        id: 'lev-1',
+        text: 'Backend Software Engineer',
+        hostedUrl: 'https://jobs.lever.co/shopback-2/lev-1',
+        categories: { location: 'Ho Chi Minh City, Vietnam', team: 'Engineering' },
+        descriptionPlain: 'Build scalable APIs',
+      },
+      {
+        id: 'lev-2',
+        text: 'Product Designer',
+        hostedUrl: 'https://jobs.lever.co/shopback-2/lev-2',
+        categories: { location: 'Singapore' },
+      },
+    ]) as unknown as typeof fetchJson;
+
+    const jobs = await fetchLeverJobs(config, mockFetch);
+    expect(jobs).toHaveLength(1);
+    expect(jobs[0].id).toBe('lever:shopback-2:lev-1');
+    expect(jobs[0].title).toBe('Backend Software Engineer');
+  });
+
+  it('fetchAshbyJobs filters Vietnam jobs from Ashby board', async () => {
+    const config: AshbyCompanyConfig = {
+      name: 'Airwallex',
+      provider: 'ashby',
+      slug: 'airwallex',
+    };
+
+    const mockFetch = (async () => ({
+      jobs: [
+        {
+          id: 'ash-1',
+          title: 'Fullstack Software Engineer',
+          location: 'Ho Chi Minh City, Vietnam',
+          jobUrl: 'https://jobs.ashbyhq.com/airwallex/ash-1',
+          department: 'Engineering',
+        },
+        {
+          id: 'ash-2',
+          title: 'Account Executive',
+          location: 'London, UK',
+          jobUrl: 'https://jobs.ashbyhq.com/airwallex/ash-2',
+        },
+      ],
+    })) as unknown as typeof fetchJson;
+
+    const jobs = await fetchAshbyJobs(config, mockFetch);
+    expect(jobs).toHaveLength(1);
+    expect(jobs[0].id).toBe('ashby:airwallex:ash-1');
+    expect(jobs[0].company).toBe('Airwallex');
+  });
+
+  it('parseLinkedInGuestHtml extracts allowed MNCs and blocks local shops', () => {
+    const config: LinkedInCompanyConfig = {
+      name: 'LinkedIn HCM MNCs',
+      provider: 'linkedin',
+      location: 'Ho Chi Minh City, Vietnam',
+      keywords: ['Software Engineer'],
+      allowCompanies: ['shopee', 'motorola'],
+      blockCompanies: ['gia dụng'],
+    };
+
+    const sampleHtml = `
+      <html><body>
+        <div class="base-search-card">
+          <a class="base-card__full-link" href="https://vn.linkedin.com/jobs/view/software-engineer-at-shopee-123456789?trk=abc"></a>
+          <h3 class="base-search-card__title">Backend Software Engineer</h3>
+          <h4 class="base-search-card__subtitle"><a>Shopee</a></h4>
+          <span class="job-search-card__location">Ho Chi Minh City, Vietnam</span>
+          <time datetime="2026-11-21">1 hour ago</time>
+        </div>
+        <div class="base-search-card">
+          <a class="base-card__full-link" href="https://vn.linkedin.com/jobs/view/dev-987654321"></a>
+          <h3 class="base-search-card__title">Fullstack Developer</h3>
+          <h4 class="base-search-card__subtitle"><a>GIA DỤNG ABC</a></h4>
+          <span class="job-search-card__location">Ho Chi Minh City, Vietnam</span>
+        </div>
+      </body></html>
+    `;
+
+    const jobs = parseLinkedInGuestHtml(sampleHtml, config);
+    expect(jobs).toHaveLength(1);
+    expect(jobs[0].id).toBe('linkedin:123456789');
+    expect(jobs[0].company).toBe('Shopee');
+    expect(jobs[0].title).toBe('Backend Software Engineer');
   });
 
   it('fetchAllCompanyJobs isolates failures and collects all successful jobs', async () => {

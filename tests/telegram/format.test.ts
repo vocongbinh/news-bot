@@ -36,8 +36,8 @@ describe('telegram job format', () => {
       when: 'Fri 16 Oct, 08:00 ICT',
       count: 1,
     });
-    expect(header).toContain('Vietnam Tech Job Alert');
-    expect(header).toContain('1 cơ hội tuyển dụng MNC');
+    expect(header).toContain('HCM Foreign/MNC Job Alert (2–4 YOE)');
+    expect(header).toContain('1 cơ hội tuyển dụng MNC tại TP.HCM');
 
     const card = formatJobCard(summary);
     expect(card).toContain('<b>NAB Innovation Centre Vietnam</b>');

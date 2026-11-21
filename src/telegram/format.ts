@@ -12,8 +12,8 @@ export function formatJobHeader(input: {
   count: number;
 }): string {
   return [
-    `🎯 <b>Vietnam Tech Job Alert</b> · ${escapeHtml(input.when)}`,
-    `<code>${input.count} cơ hội tuyển dụng MNC</code> cho Software & AI Engineers:`,
+    `🎯 <b>HCM Foreign/MNC Job Alert (2–4 YOE)</b> · ${escapeHtml(input.when)}`,
+    `<code>${input.count} cơ hội tuyển dụng MNC tại TP.HCM</code> cho Software & AI Engineers (Junior/Middle):`,
   ].join('\n');
 }
 

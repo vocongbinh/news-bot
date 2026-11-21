@@ -1,6 +1,9 @@
+import { fetchAshbyJobs } from './ashby.ts';
 import { fetchBambooHrJobs } from './bamboohr.ts';
 import { fetchGreenhouseJobs } from './greenhouse.ts';
 import { fetchItviecJobs } from './itviec.ts';
+import { fetchLeverJobs } from './lever.ts';
+import { fetchLinkedInJobs } from './linkedin.ts';
 import { fetchSmartRecruitersJobs } from './smartrecruiters.ts';
 import type { CompanyConfig, NormalizedJob } from './types.ts';
 import { fetchWorkdayJobs } from './workday.ts';
@@ -18,6 +21,12 @@ export async function fetchCompanyJobs(company: CompanyConfig): Promise<Normaliz
         return await fetchBambooHrJobs(company);
       case 'itviec':
         return await fetchItviecJobs(company);
+      case 'lever':
+        return await fetchLeverJobs(company);
+      case 'ashby':
+        return await fetchAshbyJobs(company);
+      case 'linkedin':
+        return await fetchLinkedInJobs(company);
       default:
         console.warn(`[Fetcher] Unsupported provider for ${(company as CompanyConfig).name}`);
         return [];

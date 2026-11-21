@@ -1,6 +1,6 @@
 import { loadConfig } from './config.ts';
 import { fetchAllCompanyJobs } from './fetchers/index.ts';
-import type { JobSummary } from './fetchers/types.ts';
+import type { JobSummary, NormalizedJob } from './fetchers/types.ts';
 import { matchAndRankJobs } from './filter/matcher.ts';
 import { loadSeen, markSeen, pruneSeen, saveSeen } from './state/seen.ts';
 import { summarizeJob } from './summarize/gemini.ts';
@@ -25,18 +25,52 @@ async function mapLimit<T, R>(
   return results;
 }
 
+function normalizeJobKey(company: string, title: string): string {
+  const normCompany = company.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+  const normTitle = title.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+  return `${normCompany}::${normTitle}`;
+}
+
+function deduplicateCrossSource(
+  jobs: NormalizedJob[],
+  seenKeys: Set<string>,
+): NormalizedJob[] {
+  // Prefer direct ATS postings over LinkedIn aggregator duplicates
+  const sorted = [...jobs].sort((a, b) => {
+    const aAgg = a.provider === 'linkedin' ? 1 : 0;
+    const bAgg = b.provider === 'linkedin' ? 1 : 0;
+    return aAgg - bAgg;
+  });
+
+  const unique: NormalizedJob[] = [];
+  const batchKeys = new Set<string>();
+  for (const job of sorted) {
+    const key = normalizeJobKey(job.company, job.title);
+    if (seenKeys.has(key) || batchKeys.has(key)) {
+      continue;
+    }
+    batchKeys.add(key);
+    unique.push(job);
+  }
+  return unique;
+}
+
 async function main(): Promise<void> {
   const config = loadConfig();
   const seen = loadSeen(config.seenPath);
   pruneSeen(seen, new Date(), 30);
 
-  console.log(`[Ingest] Fetching jobs for ${config.companies.length} configured companies...`);
+  console.log(`[Ingest] Fetching jobs for ${config.companies.length} configured sources...`);
   const rawJobs = await fetchAllCompanyJobs(config.companies, 3);
   console.log(`[Ingest] Retrieved ${rawJobs.length} active jobs across all providers`);
 
-  // Deduplicate against previously notified jobs
-  const unseenJobs = rawJobs.filter((job) => !seen.items[job.id]);
-  console.log(`[Dedupe] ${unseenJobs.length} new/unseen jobs to evaluate`);
+  // Deduplicate against previously notified jobs (by ID and cross-source company+title)
+  const seenCrossKeys = new Set(
+    Object.values(seen.items).map((item) => normalizeJobKey(item.source, item.title)),
+  );
+  const unseenById = rawJobs.filter((job) => !seen.items[job.id]);
+  const unseenJobs = deduplicateCrossSource(unseenById, seenCrossKeys);
+  console.log(`[Dedupe] ${unseenJobs.length} new/unseen unique jobs to evaluate`);
 
   if (unseenJobs.length === 0) {
     saveSeen(config.seenPath, seen);
@@ -48,9 +82,10 @@ async function main(): Promise<void> {
   const matches = matchAndRankJobs(unseenJobs, config.roles, config.companies);
   console.log(`[Match] ${matches.length} jobs matched target Software & AI engineering criteria`);
 
-  if (matches.length === 0) {
-    // Mark checked jobs as skipped so we don't re-evaluate non-matching jobs repeatedly
-    for (const job of unseenJobs) {
+  // Mark non-matching unseen jobs as skipped so they are not re-evaluated on every run
+  const matchedIds = new Set(matches.map((m) => m.job.id));
+  for (const job of unseenJobs) {
+    if (!matchedIds.has(job.id)) {
       markSeen(seen, {
         id: job.id,
         url: job.url,
@@ -60,6 +95,9 @@ async function main(): Promise<void> {
         at: nowIso(),
       });
     }
+  }
+
+  if (matches.length === 0) {
     saveSeen(config.seenPath, seen);
     console.log('[Pipeline] No target engineering matches found in unseen postings.');
     return;

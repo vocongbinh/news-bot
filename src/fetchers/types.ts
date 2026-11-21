@@ -3,7 +3,10 @@ export type AtsProvider =
   | 'smartrecruiters'
   | 'workday'
   | 'bamboohr'
-  | 'itviec';
+  | 'itviec'
+  | 'lever'
+  | 'ashby'
+  | 'linkedin';
 
 export interface BaseCompanyConfig {
   name: string;
@@ -38,12 +41,36 @@ export interface ItviecCompanyConfig extends BaseCompanyConfig {
   slug: string;
 }
 
+export interface LeverCompanyConfig extends BaseCompanyConfig {
+  provider: 'lever';
+  slug: string;
+}
+
+export interface AshbyCompanyConfig extends BaseCompanyConfig {
+  provider: 'ashby';
+  slug: string;
+}
+
+export interface LinkedInCompanyConfig extends BaseCompanyConfig {
+  provider: 'linkedin';
+  location: string;
+  keywords: string[];
+  timePosted?: string; // e.g. r86400 (24h), r604800 (7d)
+  experienceLevels?: string; // e.g. "2,3" (Entry & Associate)
+  delayMs?: number;
+  allowCompanies?: string[];
+  blockCompanies?: string[];
+}
+
 export type CompanyConfig =
   | GreenhouseCompanyConfig
   | SmartRecruitersCompanyConfig
   | WorkdayCompanyConfig
   | BambooHrCompanyConfig
-  | ItviecCompanyConfig;
+  | ItviecCompanyConfig
+  | LeverCompanyConfig
+  | AshbyCompanyConfig
+  | LinkedInCompanyConfig;
 
 export interface NormalizedJob {
   id: string; // Deterministic format: `${provider}:${companyKey}:${rawId}`
@@ -63,6 +90,8 @@ export interface RolePattern {
 }
 
 export interface RoleConfig {
+  locations?: string[];
+  excludeLevels?: string[];
   include: RolePattern[];
   exclude: string[];
 }

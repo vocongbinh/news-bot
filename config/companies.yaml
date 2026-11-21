@@ -1,5 +1,35 @@
 companies:
-  # --- Tier 1 Priority Companies ---
+  # --- Tier 1: Direct ATS - High-Paying Foreign Product & MNCs in HCM ---
+  - name: "Grab"
+    provider: "smartrecruiters"
+    companyId: "Grab"
+    priority: 1
+
+  - name: "Axon"
+    provider: "greenhouse"
+    token: "axon"
+    priority: 1
+
+  - name: "OPSWAT"
+    provider: "greenhouse"
+    token: "opswat"
+    priority: 1
+
+  - name: "WorldQuant"
+    provider: "greenhouse"
+    token: "worldquant"
+    priority: 1
+
+  - name: "Agoda"
+    provider: "greenhouse"
+    token: "agoda"
+    priority: 1
+
+  - name: "Airwallex"
+    provider: "ashby"
+    slug: "airwallex"
+    priority: 1
+
   - name: "Thoughtworks"
     provider: "greenhouse"
     token: "thoughtworks"
@@ -12,36 +42,122 @@ companies:
     portal: "nab_careers"
     priority: 1
 
-  - name: "SMG Swiss Marketplace Group"
+  # --- Tier 2: Direct ATS - Established Foreign MNCs in HCM ---
+  - name: "Bosch"
     provider: "smartrecruiters"
-    companyId: "SMGSwissMarketplaceGroup"
-    priority: 1
-
-  - name: "LeapXpert"
-    provider: "bamboohr"
-    subdomain: "leapxpert"
-    priority: 1
-
-  - name: "Employment Hero"
-    provider: "itviec"
-    slug: "employment-hero"
-    priority: 1
-
-  - name: "Grab"
-    provider: "smartrecruiters"
-    companyId: "Grab"
-    priority: 1
-
-  - name: "Axon"
-    provider: "greenhouse"
-    token: "axon"
-    priority: 1
-  - name: "KMS Technology"
-    provider: "smartrecruiters"
-    companyId: "KMSTechnology"
+    companyId: "BoschGroup"
     priority: 2
 
-  - name: "Money Forward Vietnam"
-    provider: "itviec"
-    slug: "money-forward-vietnam-co-ltd"
+  - name: "ShopBack"
+    provider: "lever"
+    slug: "shopback-2"
     priority: 2
+
+  - name: "Ninja Van"
+    provider: "lever"
+    slug: "ninjavan"
+    priority: 2
+
+  - name: "Gameloft"
+    provider: "smartrecruiters"
+    companyId: "Gameloft"
+    priority: 2
+
+  # --- LinkedIn HCM Foreign / High-Paying MNCs (covers companies without public ATS) ---
+  - name: "LinkedIn HCM MNCs"
+    provider: "linkedin"
+    location: "Ho Chi Minh City, Vietnam"
+    timePosted: "r86400" # Last 24 hours
+    experienceLevels: "2,3" # Entry & Associate (2-4 YOE)
+    delayMs: 2500
+    priority: 1
+    keywords:
+      - "Software Engineer"
+      - "Backend Engineer"
+      - "Fullstack Engineer"
+      - "AI Engineer"
+    # Whitelist of well-known foreign product / MNC / high-pay tech companies in HCM
+    allowCompanies:
+      - "shopee"
+      - "tiktok"
+      - "bytedance"
+      - "lazada"
+      - "grab"
+      - "axon"
+      - "nab"
+      - "thoughtworks"
+      - "bosch"
+      - "opswat"
+      - "worldquant"
+      - "agoda"
+      - "airwallex"
+      - "shopback"
+      - "ninja van"
+      - "money forward"
+      - "employment hero"
+      - "tymex"
+      - "katalon"
+      - "anduin"
+      - "sky mavis"
+      - "holistics"
+      - "elsa"
+      - "trusting social"
+      - "motorola"
+      - "marvell"
+      - "intel"
+      - "renesas"
+      - "siemens"
+      - "sap"
+      - "epam"
+      - "endava"
+      - "nfq"
+      - "netcompany"
+      - "prudential"
+      - "manulife"
+      - "chubb"
+      - "home credit"
+      - "standard chartered"
+      - "hsbc"
+      - "anz"
+      - "commonwealth bank"
+      - "rakuten"
+      - "line"
+      - "naver"
+      - "gojek"
+      - "traveloka"
+      - "carousell"
+      - "zalora"
+      - "payoneer"
+      - "wise"
+      - "revolut"
+      - "deel"
+      - "remote"
+      - "mambu"
+      - "backbase"
+      - "coda"
+      - "aspiration"
+      - "aspire"
+      - "xendit"
+      - "st engineering"
+      - "heineken"
+      - "schneider electric"
+      - "continental"
+      - "hitachi"
+      - "gameloft"
+      - "ubisoft"
+      - "synopsys"
+      - "cadence"
+      - "veeva"
+      - "cloudflare"
+      - "datadog"
+      - "gitlab"
+      - "atlassian"
+      - "canva"
+    blockCompanies:
+      - "fpt"
+      - "vti"
+      - "tma"
+      - "gia dụng"
+      - "hd saison"
+      - "tnhh"
+      - "cổ phần"

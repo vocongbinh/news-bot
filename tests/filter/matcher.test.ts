@@ -1,15 +1,22 @@
 import { describe, expect, it } from 'vitest';
 import type { CompanyConfig, NormalizedJob, RoleConfig } from '../../src/fetchers/types.ts';
-import { isLocationValid, matchAndRankJobs, matchJob } from '../../src/filter/matcher.ts';
+import {
+  isLevelAllowed,
+  isLocationValid,
+  matchAndRankJobs,
+  matchJob,
+} from '../../src/filter/matcher.ts';
 
 const mockRoles: RoleConfig = {
+  locations: ['ho chi minh', 'hcmc', '\\bhcm\\b', 'saigon'],
+  excludeLevels: ['intern', 'fresher', 'senior', 'sr\\.', 'lead', 'principal', 'staff', 'manager', 'director'],
   include: [
     { pattern: 'software\\s+engineer|developer', category: 'software-engineer' },
     { pattern: 'backend|node|python|java', category: 'backend' },
     { pattern: 'fullstack|full-stack', category: 'fullstack' },
     { pattern: 'ai\\s*(?:agent|engineer|ops)', category: 'ai-agent' },
   ],
-  exclude: ['sales', 'civil', 'hr', 'recruiter', 'marketing'],
+  exclude: ['embedded', 'automotive', 'c\\+\\+', 'sales', 'civil', 'hr', 'recruiter', 'marketing'],
 };
 
 const mockCompanies: CompanyConfig[] = [
@@ -19,12 +26,12 @@ const mockCompanies: CompanyConfig[] = [
 ];
 
 describe('Job Matcher', () => {
-  it('identifies and classifies valid tech roles', () => {
+  it('identifies and classifies valid Junior/Middle tech roles in HCM', () => {
     const job: NormalizedJob = {
       id: 'job-1',
       provider: 'greenhouse',
       company: 'Thoughtworks',
-      title: 'Senior Full-Stack Engineer (Node.js/React)',
+      title: 'Middle Full-Stack Engineer (Node.js/React)',
       location: 'Ho Chi Minh City, Vietnam',
       url: 'https://example.com/1',
     };
@@ -36,13 +43,13 @@ describe('Job Matcher', () => {
     expect(match?.priority).toBeGreaterThan(100);
   });
 
-  it('matches AI agent and AI engineering roles with bonus points', () => {
+  it('matches AI agent and AI engineering roles in HCM with bonus points', () => {
     const job: NormalizedJob = {
       id: 'job-ai',
       provider: 'workday',
       company: 'NAB',
-      title: 'Senior AI Ops Engineer',
-      location: 'Hanoi, Vietnam',
+      title: 'AI Ops Engineer',
+      location: 'HCMC, Vietnam',
       url: 'https://example.com/ai',
     };
 
@@ -52,37 +59,66 @@ describe('Job Matcher', () => {
     expect(match?.priority).toBeGreaterThan(120);
   });
 
+  it('excludes Intern/Fresher and Senior/Lead/Principal/Manager roles', () => {
+    expect(isLevelAllowed('Software Engineer Intern', mockRoles.excludeLevels)).toBe(false);
+    expect(isLevelAllowed('Fresher Backend Developer', mockRoles.excludeLevels)).toBe(false);
+    expect(isLevelAllowed('Senior Software Engineer', mockRoles.excludeLevels)).toBe(false);
+    expect(isLevelAllowed('Lead Software Engineer', mockRoles.excludeLevels)).toBe(false);
+    expect(isLevelAllowed('Principal Software Engineer', mockRoles.excludeLevels)).toBe(false);
+    expect(isLevelAllowed('Staff Software Engineer', mockRoles.excludeLevels)).toBe(false);
+    expect(isLevelAllowed('Engineering Manager', mockRoles.excludeLevels)).toBe(false);
+
+    expect(isLevelAllowed('Software Engineer, Backend', mockRoles.excludeLevels)).toBe(true);
+    expect(isLevelAllowed('Junior Backend Developer', mockRoles.excludeLevels)).toBe(true);
+    expect(isLevelAllowed('Middle Fullstack Engineer', mockRoles.excludeLevels)).toBe(true);
+    expect(isLevelAllowed('Android Engineer I', mockRoles.excludeLevels)).toBe(true);
+  });
+
   it('excludes non-engineering roles even if partial keywords match', () => {
     const job: NormalizedJob = {
       id: 'job-sales',
       provider: 'itviec',
       company: 'Company A',
       title: 'Sales Engineer for Enterprise Products',
-      location: 'Vietnam',
+      location: 'Ho Chi Minh City',
       url: 'https://example.com/sales',
     };
 
     const match = matchJob(job, mockRoles);
     expect(match).toBeNull();
-  });
 
-  it('rejects roles with purely foreign locations', () => {
-    const job: NormalizedJob = {
-      id: 'job-foreign',
+    const cppJob: NormalizedJob = {
+      id: 'job-cpp',
       provider: 'greenhouse',
-      company: 'Company B',
-      title: 'Backend Developer',
-      location: 'Chicago, United States',
-      url: 'https://example.com/foreign',
+      company: 'OPSWAT',
+      title: 'Software Engineer C++',
+      location: 'Ho Chi Minh City, Vietnam',
+      url: 'https://example.com/cpp',
     };
+    expect(matchJob(cppJob, mockRoles)).toBeNull();
 
-    expect(isLocationValid(job.location)).toBe(false);
-    expect(matchJob(job, mockRoles)).toBeNull();
+    const embeddedJob: NormalizedJob = {
+      id: 'job-emb',
+      provider: 'smartrecruiters',
+      company: 'Bosch',
+      title: 'Embedded Automotive Software Engineer',
+      location: 'Ho Chi Minh, VN',
+      url: 'https://example.com/emb',
+    };
+    expect(matchJob(embeddedJob, mockRoles)).toBeNull();
   });
 
-  it('accepts remote roles', () => {
-    expect(isLocationValid('Remote - Vietnam')).toBe(true);
-    expect(isLocationValid('APAC Remote')).toBe(true);
+  it('accepts HCM locations and rejects Hanoi, Da Nang, and foreign locations', () => {
+    expect(isLocationValid('Ho Chi Minh City, Vietnam', mockRoles.locations)).toBe(true);
+    expect(isLocationValid('HCMC, VN', mockRoles.locations)).toBe(true);
+    expect(isLocationValid('Saigon', mockRoles.locations)).toBe(true);
+    expect(isLocationValid('Vietnam', mockRoles.locations)).toBe(true);
+
+    expect(isLocationValid('Hanoi, Vietnam', mockRoles.locations)).toBe(false);
+    expect(isLocationValid('Da Nang, Vietnam', mockRoles.locations)).toBe(false);
+    expect(isLocationValid('Chicago, United States', mockRoles.locations)).toBe(false);
+    expect(isLocationValid('Singapore', mockRoles.locations)).toBe(false);
+    expect(isLocationValid('APAC Remote', mockRoles.locations)).toBe(false);
   });
 
   it('sorts matched jobs by priority and relevance descending', () => {
@@ -99,7 +135,7 @@ describe('Job Matcher', () => {
         id: 'job-tier1',
         provider: 'greenhouse',
         company: 'Thoughtworks',
-        title: 'Lead Software Engineer',
+        title: 'Middle Software Engineer',
         location: 'Ho Chi Minh City',
         url: 'https://example.com/tier1',
       },
