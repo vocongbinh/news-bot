@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T16:08:27+07:00",
+  "updatedAt": "2026-11-21T20:11:27+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -15,14 +15,6 @@
       "source": "rss:simonwillison",
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
-      "status": "sent"
-    },
-    "itviec:money-forward-vietnam-co-ltd:software-engineer-intern-money-forward-vietnam-co-ltd-4718": {
-      "url": "https://itviec.com/it-jobs/software-engineer-intern-money-forward-vietnam-co-ltd-4718",
-      "title": "Software Engineer Intern",
-      "source": "Money Forward Vietnam",
-      "seenAt": "2026-10-22T16:46:09+07:00",
-      "digestAt": "2026-10-22T16:46:09+07:00",
       "status": "sent"
     },
     "greenhouse:axon:8041434003": {
@@ -3131,6 +3123,181 @@
       "source": "Bosch",
       "seenAt": "2026-11-21T16:08:27+07:00",
       "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "workday:nab:JR119981": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/IT-IS-Manager_JR119981",
+      "title": "IT/IS Manager",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121617": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Head-of-Communications_JR121617",
+      "title": "Head of Communications",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120663": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Adobe-Workfront-Engineer---Martech_JR120663",
+      "title": "Senior Adobe Workfront Engineer - Martech",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120840": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Data-Engineer---Payments_JR120840",
+      "title": "Senior Data Engineer - Payments",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120258": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Associate-Director--Legal-and-Compliance_JR120258",
+      "title": "Associate Director, Legal and Compliance",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120849": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Full-Stack-Engineer--ReactJS--Golang----Payments_JR120849",
+      "title": "Senior Full-Stack Engineer (ReactJS, Golang) - Payments",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120838": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Golang-Engineer---Payments_JR120838",
+      "title": "Senior Golang Engineer - Payments",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121697": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Fullstack-Engineer---WP_JR121697",
+      "title": "Senior Fullstack Engineer - Workplace Technology",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR111549": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/VN-TNR-Tower-54A-Nguyen-Chi-Thanh-Hanoi-VNM/Senior-Associate--Divisional-Controls--Ops-Risk---IT-Risk-_JR111549",
+      "title": "Senior Associate, Technology Risks - Divisional Controls",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120112": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Enablement-Consultant--PMO----Group-Security_JR120112",
+      "title": "Business Manager - Tech Modernisation",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120671": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Business-Analyst---Martech_JR120671",
+      "title": "Senior Adobe Analytics Engineer - Martech",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120987": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Manager--Data-Reporting---Insights_JR120987",
+      "title": "Manager, Data Reporting & Insights",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120841-2": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Lead-Site-Reliability-Engineer---Payments_JR120841-2",
+      "title": "Lead Site Reliability Engineer - Payments",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR121159": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Senior-Engineer-Manager---Technology-Risk_JR121159",
+      "title": "Senior Engineer Manager - Technology Risk",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120064": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Capital-Place-29-Lieu-Giai-Street-Ngoc-Ha-Ward-Hanoi-VNM/Frontend-Engineer---Business-Lending_JR120064",
+      "title": "Frontend Engineer - Business Lending",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120071": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Capital-Place-29-Lieu-Giai-Street-Ngoc-Ha-Ward-Hanoi-VNM/Engineering-Manager---Payments_JR120071",
+      "title": "Engineering Manager - Payments",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120661": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Engineering-Manager---Martech_JR120661",
+      "title": "Engineering Manager - Martech",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:19+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR120844": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Tower-A-The-Hallmark-Building-15-Tran-Bach-Dang-An-Khanh-Ward-Thu-Duc-Ho-Chi-Minh-City-VNM/Golang-Engineer---Payments_JR120844",
+      "title": "Golang Engineer - Payments",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-21T20:11:27+07:00",
+      "digestAt": "2026-11-21T20:11:27+07:00",
+      "status": "sent"
+    },
+    "smartrecruiters:BoschGroup:744000156768859": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156768859",
+      "title": "Full Stack Web Developer, Mobility Aftermarket Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T20:11:27+07:00",
+      "digestAt": "2026-11-21T20:11:27+07:00",
+      "status": "sent"
+    },
+    "smartrecruiters:BoschGroup:744000143064799": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143064799",
+      "title": "[BD] Junior Artificial Inteligence Developer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T20:11:27+07:00",
+      "digestAt": "2026-11-21T20:11:27+07:00",
+      "status": "sent"
+    },
+    "smartrecruiters:BoschGroup:744000123343704": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000123343704",
+      "title": "[BD] JavaScript Software Developer (JavaScript, JSON)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T20:11:27+07:00",
+      "digestAt": "2026-11-21T20:11:27+07:00",
+      "status": "sent"
+    },
+    "smartrecruiters:BoschGroup:744000124609718": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000124609718",
+      "title": "[SO] HubSpot and Product Configurator System Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T20:11:27+07:00",
+      "digestAt": "2026-11-21T20:11:27+07:00",
+      "status": "sent"
+    },
+    "linkedin:4492997775": {
+      "url": "https://vn.linkedin.com/jobs/view/software-engineer-flutter-dart-edge-desktop-mobile-applications-at-motorola-solutions-4492997775",
+      "title": "Software Engineer (Flutter / Dart), Edge & Desktop Mobile Applications",
+      "source": "Motorola Solutions",
+      "seenAt": "2026-11-21T20:11:27+07:00",
+      "digestAt": "2026-11-21T20:11:27+07:00",
+      "status": "sent"
+    },
+    "linkedin:4437682590": {
+      "url": "https://vn.linkedin.com/jobs/view/software-developers-at-netcompany-4437682590",
+      "title": "Software Developers",
+      "source": "Netcompany",
+      "seenAt": "2026-11-21T20:11:27+07:00",
+      "digestAt": "2026-11-21T20:11:27+07:00",
       "status": "sent"
     }
   }
