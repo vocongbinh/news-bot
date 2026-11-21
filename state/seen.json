@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T12:39:49+07:00",
+  "updatedAt": "2026-11-21T16:08:27+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -908,6 +908,2230 @@
       "source": "Grab",
       "seenAt": "2026-11-20T20:45:38+07:00",
       "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000156705769": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000156705769",
+      "title": "Head, Cluster Controllership & Finance Governance",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000155932615": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000155932615",
+      "title": "Lead Product Manager, Data Platform",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000154004729": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000154004729",
+      "title": "Lead Security Engineer, Red Team & Threat Intel",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000153509469": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000153509469",
+      "title": "Associate, Business Development",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000153410339": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000153410339",
+      "title": "Senior Software Engineer, Customer Data Platform",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000153399879": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000153399879",
+      "title": "Senior Product Manager, Grab Support",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000153399359": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000153399359",
+      "title": "Associate, Commercial Planning - Longtail",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000153138305": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000153138305",
+      "title": "Specialist, GIP Demand Planning",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000152321499": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000152321499",
+      "title": "Assistant Manager, Self-Serve Business Strategy & Planning",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000147192955": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000147192955",
+      "title": "Associate, Merchant Acquisition - GrabMart",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000145479944": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000145479944",
+      "title": "Specialist, GIP Business Insight Analysis",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000145416309": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000145416309",
+      "title": "Associate, Driver Acquisition",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000144675669": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000144675669",
+      "title": "Senior Software Engineer, Fullstack - Web Platform",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000144511679": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000144511679",
+      "title": "Software Engineering Manager",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000144452589": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000144452589",
+      "title": "Associate, Key Account Management - Expansion",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000144294728": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000144294728",
+      "title": "Associate, Business Development - Omni",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000144227389": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000144227389",
+      "title": "Engineering Manager II, Data Platform",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000144003539": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000144003539",
+      "title": "Lead, Strategic Acquisition Project",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000143797040": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000143797040",
+      "title": "Specialist, Driver Enforcement",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000143235030": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000143235030",
+      "title": "Senior Software Engineer, Observability platform",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000137557749": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000137557749",
+      "title": "Country Head of People Operations, Vietnam",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000136432620": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000136432620",
+      "title": "Marketplace Assistant Manager (Mobility)",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000134444489": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000134444489",
+      "title": "Senior Specialist, Fleet Partner Insight and Operations",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000127795765": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000127795765",
+      "title": "Senior Software Engineer, Mobile (Android)",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000122385079": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000122385079",
+      "title": "Lead Software Engineer, Customer Data Platform",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4625435005": {
+      "url": "https://www.opswat.com/jobs/4625435005?gh_jid=4625435005",
+      "title": "Account Executive (Utilities)",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4623181005": {
+      "url": "https://www.opswat.com/jobs/4623181005?gh_jid=4623181005",
+      "title": "AI Security Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4387391005": {
+      "url": "https://www.opswat.com/jobs/4387391005?gh_jid=4387391005",
+      "title": "Analytics Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4527452005": {
+      "url": "https://www.opswat.com/jobs/4527452005?gh_jid=4527452005",
+      "title": "Associate DevOps Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4370715005": {
+      "url": "https://www.opswat.com/jobs/4370715005?gh_jid=4370715005",
+      "title": "Brand Campaign & Paid Media Manager",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4745363005": {
+      "url": "https://www.opswat.com/jobs/4745363005?gh_jid=4745363005",
+      "title": "Customer Experience Manager - Singapore",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4715360005": {
+      "url": "https://www.opswat.com/jobs/4715360005?gh_jid=4715360005",
+      "title": "Director of AI & Data Platform",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4669508005": {
+      "url": "https://www.opswat.com/jobs/4669508005?gh_jid=4669508005",
+      "title": "Director of Product - Secure File Gateway and ICAP",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4696256005": {
+      "url": "https://www.opswat.com/jobs/4696256005?gh_jid=4696256005",
+      "title": "Director of Supply Chain - Singapore",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4718914005": {
+      "url": "https://www.opswat.com/jobs/4718914005?gh_jid=4718914005",
+      "title": "Engineering Manager",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4499078005": {
+      "url": "https://www.opswat.com/jobs/4499078005?gh_jid=4499078005",
+      "title": "Enterprise Account Executive (NY/NJ)",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4718788005": {
+      "url": "https://www.opswat.com/jobs/4718788005?gh_jid=4718788005",
+      "title": "Full Stack Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4754959005": {
+      "url": "https://www.opswat.com/jobs/4754959005?gh_jid=4754959005",
+      "title": "Graphic Designer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4658920005": {
+      "url": "https://www.opswat.com/jobs/4658920005?gh_jid=4658920005",
+      "title": "GTM System Analyst Intern - Enterprise Platform",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4005801005": {
+      "url": "https://www.opswat.com/jobs/4005801005?gh_jid=4005801005",
+      "title": "Human Resources Director, Asia Pacific (APJ)",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4343033005": {
+      "url": "https://www.opswat.com/jobs/4343033005?gh_jid=4343033005",
+      "title": "L3 Technical Support Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4733499005": {
+      "url": "https://www.opswat.com/jobs/4733499005?gh_jid=4733499005",
+      "title": "Marketing Operations Coordinator - Vietnam",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4623211005": {
+      "url": "https://www.opswat.com/jobs/4623211005?gh_jid=4623211005",
+      "title": "Sales Associate",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4732069005": {
+      "url": "https://www.opswat.com/jobs/4732069005?gh_jid=4732069005",
+      "title": "Sales Development Representative - Singapore",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4448237005": {
+      "url": "https://www.opswat.com/jobs/4448237005?gh_jid=4448237005",
+      "title": "SDET - Secure File Gateway",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4741729005": {
+      "url": "https://www.opswat.com/jobs/4741729005?gh_jid=4741729005",
+      "title": "Senior Agentic Software Engineer - Legal",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4745443005": {
+      "url": "https://www.opswat.com/jobs/4745443005?gh_jid=4745443005",
+      "title": "Senior Agentic Software Engineer - Sales",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4576567005": {
+      "url": "https://www.opswat.com/jobs/4576567005?gh_jid=4576567005",
+      "title": "Senior AI Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4731624005": {
+      "url": "https://www.opswat.com/jobs/4731624005?gh_jid=4731624005",
+      "title": "Senior AI Engineer, Marketing",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4564445005": {
+      "url": "https://www.opswat.com/jobs/4564445005?gh_jid=4564445005",
+      "title": "Senior AI Native Software Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4557972005": {
+      "url": "https://www.opswat.com/jobs/4557972005?gh_jid=4557972005",
+      "title": "Senior Atlassian Administrator",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4562534005": {
+      "url": "https://www.opswat.com/jobs/4562534005?gh_jid=4562534005",
+      "title": "Senior Data Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4753232005": {
+      "url": "https://www.opswat.com/jobs/4753232005?gh_jid=4753232005",
+      "title": "Senior Director of Product Management- MFT",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4540380005": {
+      "url": "https://www.opswat.com/jobs/4540380005?gh_jid=4540380005",
+      "title": "Senior Director of Product - Storage Security",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4564468005": {
+      "url": "https://www.opswat.com/jobs/4564468005?gh_jid=4564468005",
+      "title": "Senior HR Generalist",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4654385005": {
+      "url": "https://www.opswat.com/jobs/4654385005?gh_jid=4654385005",
+      "title": "Senior Product Manager, Secure File Gateway and ICAP",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4718344005": {
+      "url": "https://www.opswat.com/jobs/4718344005?gh_jid=4718344005",
+      "title": "Senior Solution Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4722077005": {
+      "url": "https://www.opswat.com/jobs/4722077005?gh_jid=4722077005",
+      "title": "Senior Solution Engineer (IT)",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4576148005": {
+      "url": "https://www.opswat.com/jobs/4576148005?gh_jid=4576148005",
+      "title": "Software Development Engineer in Test Intern",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4627720005": {
+      "url": "https://www.opswat.com/jobs/4627720005?gh_jid=4627720005",
+      "title": "Software Engineer C++",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4576146005": {
+      "url": "https://www.opswat.com/jobs/4576146005?gh_jid=4576146005",
+      "title": "Software Engineering Intern",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4746888005": {
+      "url": "https://www.opswat.com/jobs/4746888005?gh_jid=4746888005",
+      "title": "Software Engineering Intern - MetaDefender Cloud",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4728628005": {
+      "url": "https://www.opswat.com/jobs/4728628005?gh_jid=4728628005",
+      "title": "Technical Product Manager",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4753392005": {
+      "url": "https://www.opswat.com/jobs/4753392005?gh_jid=4753392005",
+      "title": "Vice President, Products — Diodes",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4690091006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4690091006",
+      "title": "Human Resources Manager",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4069478006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4069478006",
+      "title": "Quantitative Researcher",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4653484006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4653484006",
+      "title": "Senior Backend Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4672066006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4672066006",
+      "title": "Senior Software Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4699962006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4699962006",
+      "title": "Software Engineer (C/C++)",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4718317006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4718317006",
+      "title": "Technical Project Manager",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4565984006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4565984006",
+      "title": "WorldQuant Technology Talent Network",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4686030006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4686030006",
+      "title": "WQBRAIN AI Researcher",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4686007006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4686007006",
+      "title": "WQBRAIN Researcher",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:worldquant:4706108006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4706108006",
+      "title": "WQBRAIN User Success Specialist",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:agoda:8080914": {
+      "url": "https://job-boards.greenhouse.io/agoda/jobs/8080914",
+      "title": "Account Manager, Vietnam Based",
+      "source": "Agoda",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:agoda:8166655": {
+      "url": "https://job-boards.greenhouse.io/agoda/jobs/8166655",
+      "title": "Associate Director (Ho Chi Minh Based)",
+      "source": "Agoda",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:agoda:8324060": {
+      "url": "https://job-boards.greenhouse.io/agoda/jobs/8324060",
+      "title": "Strategic Account Manager (Ho Chi Minh)",
+      "source": "Agoda",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:agoda:8203458": {
+      "url": "https://job-boards.greenhouse.io/agoda/jobs/8203458",
+      "title": "Supply Specialist- Vietnam Based",
+      "source": "Agoda",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "ashby:airwallex:51493378-715f-4cfa-a80c-d0a7ba799ff5": {
+      "url": "https://jobs.ashbyhq.com/airwallex/51493378-715f-4cfa-a80c-d0a7ba799ff5",
+      "title": "Go-To-Market Partnerships Manager, SME & Growth",
+      "source": "Airwallex",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "ashby:airwallex:6951af84-e9f9-45d8-a2dd-95daa4227a67": {
+      "url": "https://jobs.ashbyhq.com/airwallex/6951af84-e9f9-45d8-a2dd-95daa4227a67",
+      "title": "Senior Manager, Business Development, SME & Growth",
+      "source": "Airwallex",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "ashby:airwallex:699afc70-31fd-449e-92af-ba1575352d28": {
+      "url": "https://jobs.ashbyhq.com/airwallex/699afc70-31fd-449e-92af-ba1575352d28",
+      "title": "Senior Manager, GTM Partnerships, SME & Growth",
+      "source": "Airwallex",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "ashby:airwallex:14dfecc4-c09f-4336-b6c8-67c4eab5d792": {
+      "url": "https://jobs.ashbyhq.com/airwallex/14dfecc4-c09f-4336-b6c8-67c4eab5d792",
+      "title": "Manager, Inbound Sales, SME & Growth",
+      "source": "Airwallex",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162677751": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162677751",
+      "title": "[Bosch HcP - Internship] Production Engineering Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162666349": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666349",
+      "title": "[Internship Program Q1 2027] Embedded Software Intern (C/C++)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162665059": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162665059",
+      "title": "[Bosch HcP - Internship] Spare Part Management Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162660160": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162660160",
+      "title": "[ICS] Internal Audit Lead (Internal Control/Risk Management)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162656269": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162656269",
+      "title": "[SX/EIT-MM] Embedded Test Engineer (1-year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162651399": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162651399",
+      "title": "[EMN] Hardware Internship for High Perform Computing Platform",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162651359": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162651359",
+      "title": "[BD] IT Project Operation Assistant Intern (6-Month Internship)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162262305": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162262305",
+      "title": "[Internship] Corporate Communications Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162263579": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162263579",
+      "title": "[Internship] AI & Automatization Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162228021": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162228021",
+      "title": "[Bosch HcP – Internship] Administrative Support Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162217239": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162217239",
+      "title": "Commercial Buyer - EA Region (focus MA-AS, Australia), Mobility Aftermarket Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162214189": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162214189",
+      "title": "[BDO] IT Operations & Communications Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162033216": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162033216",
+      "title": "[EMC] Android Automotive Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000162008501": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162008501",
+      "title": "[BGSV] 30 Fresher Embedded Software Engineers (C/C++) - One Day Offer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161815549": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161815549",
+      "title": "[BD] SAP Lead Developer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161772684": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161772684",
+      "title": "[Internship] Accounting Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161774364": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161774364",
+      "title": "[Internship] Customer Service Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161771734": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161771734",
+      "title": "[Internship] Logistics Cost Clearance Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161755079": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161755079",
+      "title": "[BD] SAP FI Application Support Consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161739349": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161739349",
+      "title": "[EMN] Senior IP Design Verification Engineer (5-10 YoE)  (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161409674": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161409674",
+      "title": "[Bosch HcP - Internship] General Affairs Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161253968": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161253968",
+      "title": "PCB Layout Expert – Automotive HPC Embedded Platforms",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161210009": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161210009",
+      "title": "[SX] SAP PP Senior Consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161044879": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161044879",
+      "title": "[EDA] ADAS Embedded ASW Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161022599": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161022599",
+      "title": "[SO] Supply Chain Intern (Korean/Japanese/German/Chinese + English)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161021959": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161021959",
+      "title": "[SO] Internship_Requirement Management Support (Chinese + English required)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000161021919": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161021919",
+      "title": "[SO] Internship_Translation-Requirement Management Support (Japanese + English required)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160818479": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160818479",
+      "title": "[BD] Senior IT Product Business Analyst (PO Assistant)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160791919": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160791919",
+      "title": "[Bosch HcP – Internship] Digital Quality Management System Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160528589": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160528589",
+      "title": "[Bosch HcP - Internship] Preventive Maintenance Planning Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160162110": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160162110",
+      "title": "[EJV] 3 Fresher Embedded Software Engineers",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160163259": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160163259",
+      "title": "[EPC3] 2 Fresher Embedded Software Engineers",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160160004": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160160004",
+      "title": "[EPC] 2 Fresher Embedded Software Engineers",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160136105": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160136105",
+      "title": "[SO] IT Security Consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000160114109": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160114109",
+      "title": "[SO] Outbound Customer Service Agent – Malaysia Market (Chinese + English)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159812539": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159812539",
+      "title": "[EMN] Mechanical Engineer Intern (6-month fulltime Internship)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159805979": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159805979",
+      "title": "[SO] Senior Data Analyst – Databricks / Modern Data Platform",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159795599": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159795599",
+      "title": "Key User Manager – Oil & Gas, EPC & Metal Fabrication (South Vietnam), Power Tools Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159582549": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159582549",
+      "title": "[BGSV/PJ-TE] Senior Edge AI Engineer (ROS 2/Computer Vision/Sensor Fusion)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159552089": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159552089",
+      "title": "Pricing and Sales Excellence Specialist (East Asia), Mobility Aftermarket Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159548369": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159548369",
+      "title": "[Bosch R&D – Internship] Simulation Engineering Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159545859": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159545859",
+      "title": "[EMN] Expert for High-Performance SoC BSP Integration (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159545289": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159545289",
+      "title": "[EAF] Senior AI Engineer (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159348179": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159348179",
+      "title": "[Internship] Billing Support and Order Management Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159340712": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159340712",
+      "title": "[Internship] Sales Planning Support Intern (Japanese speaking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159328650": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159328650",
+      "title": "[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159329649": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159329649",
+      "title": "[Internship Program Q1 2027] Automation Test Engineer Intern (Selenium)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159327500": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159327500",
+      "title": "[Internship Program Q1 2027] DevOps Engineer Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159329040": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159329040",
+      "title": "[Internship Program Q1 2027] AI Engineer Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159327431": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159327431",
+      "title": "[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159289339": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159289339",
+      "title": "Battery Product Specialist (East Asia), Mobility Aftermarket Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159066089": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159066089",
+      "title": "[SX/BSV-VN] SAP FICO Consultant - Joining Bonus Available",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000159054699": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159054699",
+      "title": "[EJV] Embedded Engineer (SWSD)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158716380": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158716380",
+      "title": "[Internship] Project Management Intern (Japanese speaking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158706887": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158706887",
+      "title": "Senior PCB Layout Engineer – Automotive HPC Embedded Platforms",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158706007": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158706007",
+      "title": "Senior Hardware Electronic Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158707714": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158707714",
+      "title": "Hardware Expert with Signal & Power Integrity",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158707579": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158707579",
+      "title": "Electronic Hardware Engineering Manager/ Technical Lead",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158706539": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158706539",
+      "title": "[BD] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD )",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158655699": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158655699",
+      "title": "[Bosch HcP - Internship] Talent Acquisition Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158444219": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158444219",
+      "title": "[SO] Senior Full-Stack Python Developer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158443960": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158443960",
+      "title": "[SO] Senior Full-Stack Java Developer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158218399": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158218399",
+      "title": "[Bosch HcP – Internship] Health – Safety – Environment Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000158207214": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158207214",
+      "title": "[R&D] Mechanical Design Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157994529": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157994529",
+      "title": "[EMC] NEO Vehicle Autosar Embedded SW Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157957589": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157957589",
+      "title": "[BD] JavaScript Developer Intern (6-month fulltime internship)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157952619": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157952619",
+      "title": "[Bosch HcP – Internship] Civil Engineering Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157951834": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157951834",
+      "title": "[HRL] HR Intern (Learning & Development)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157753142": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157753142",
+      "title": "[EMC] Automotive Software System Architect",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157746363": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157746363",
+      "title": "[BSV-VN] Embedded Software/System Tester",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157727964": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157727964",
+      "title": "[SX/EIT-MM] AI/Agent Engineers (1-year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157718210": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157718210",
+      "title": "[Bosch R&D – Internship] Testing & Validation Intern (Mechanical)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157717649": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157717649",
+      "title": "[ETA] Embedded Firmware Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000157002084": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157002084",
+      "title": "[EPC] Department Secretary",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000156722489": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156722489",
+      "title": "[SX/EIT-MM] Embedded C++ Engineer (1-year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000156720869": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156720869",
+      "title": "[EMC] NEO SoC1 Embedded SW Engineer (QnX) (1 year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000156720669": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156720669",
+      "title": "[EMC] Embedded Android Automotive Developer (1 year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000156705079": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156705079",
+      "title": "[EPC] Senior Embedded Software Engineer (with Joining Bonus )",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000156475673": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156475673",
+      "title": "[ESC] Automotive AUTOSAR Base SW Developer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000156460360": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156460360",
+      "title": "[Bosch HcP – Internship] Facility Maintenance Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000156221569": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156221569",
+      "title": "[Bosch HcP – Internship] Manufacturing Digitalization Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155916994": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155916994",
+      "title": "Agentic AI & Automation Specialist – Customer Service, Mobility Aftermarket Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155748110": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155748110",
+      "title": "[EPM] Senior AWS Cloud DevOps Engineer (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155715549": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155715549",
+      "title": "[EPM] Automotive Software Integration Engineer (C++/Python) – All Levels (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155689149": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155689149",
+      "title": "[SO] Delivery/Team Lead – Digitalization & Technology Enablement",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155682837": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155682837",
+      "title": "[SX/EIT-MM] Junior SAP SD Consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155680292": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155680292",
+      "title": "[SX/EIT-MM] Senior SAP SD Consultant - Joining Bonus Available",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155660519": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155660519",
+      "title": "[EPM] 4 Automotive SiL/HiL Embedded C++ Engineer - All Levels (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155410429": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155410429",
+      "title": "[Bosch HcP – Internship] Facility Management Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000155154785": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155154785",
+      "title": "[R&D] Development Engineer (Series Support & Platform Management)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000154969779": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154969779",
+      "title": "[SO] Packaging Design and Optimization Engineer (Chinese Speaking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000154946169": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154946169",
+      "title": "[EJV] Lead AI Security Engineer (LLM & Agentic AI) - with Joining Bonus",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000154924539": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154924539",
+      "title": "[Bosch R&D – Internship] Testing Tool Development Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000154916809": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154916809",
+      "title": "[EDT] Senior System Test Engineer/Test Function Lead",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000154626869": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154626869",
+      "title": "[ESB] Personal Assistant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000154623580": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154623580",
+      "title": "[EAE] Automotive Embedded System Architect (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000154575390": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154575390",
+      "title": "[EPC]  Embedded Software Engineer _ In-Vehicle Network Communication for EU Project (Fresher)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153730674": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153730674",
+      "title": "[BD] Senior IT Consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153733239": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153733239",
+      "title": "[BD] Senior IT Product Manager (Business Workflow Platform)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153732989": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153732989",
+      "title": "[BD] Senior Test Automation Engineer (Python, Playwright) - AI Global Product",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153732809": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153732809",
+      "title": "[BD] Senior IT Product Marketing Specialist",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153732023": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153732023",
+      "title": "[BD] Senior Automation Test Lead - AI Global Product",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153731981": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153731981",
+      "title": "[BD] IT Operations & Support Lead",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153670659": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153670659",
+      "title": "[SO] Technical Product Classification Engineer (Trade Compliance)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153654436": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153654436",
+      "title": "[SO] ASEAN Customer Service Center | Inbound Team Lead with Malay Language",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153654439": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153654439",
+      "title": "[SO] Packaging Design and Optimization Engineer for East Asia Region",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153654409": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153654409",
+      "title": "[SO] Translation & Requirement Management Support Associate (Japanese + English required)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153448249": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153448249",
+      "title": "[ETA] Junior DevOps Engineer (1-3 years of experience-HCM Based)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153436644": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153436644",
+      "title": "[SX/EIT-MM] SAP Consultant Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153399149": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153399149",
+      "title": "[SO] Scrum Master (EN)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153120339": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153120339",
+      "title": "[ESC] Automotive AUTOSAR Base SW Developer (all levels)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153089029": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153089029",
+      "title": "[ETA] Embedded Software Developer - Flash Bootloader",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000153087379": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153087379",
+      "title": "[R&D] Customer Interface Engineer (Japanese speaking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000152879589": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152879589",
+      "title": "[EMN] Mechanical Design Engineer (Machine Design & Product Development)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000152821659": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152821659",
+      "title": "[EPC] Senior Embedded Automotive Test Engineer (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000152818734": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152818734",
+      "title": "Process/ Senior Process Engineer - Pipeline & Heat Treatment process (HcP/MFE2.12)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000152351979": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152351979",
+      "title": "[BGSV] 20 Senior Embedded Software Engineer – Automotive Technologies (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000152343039": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152343039",
+      "title": "[Bosch R&D - Internship] Product Development Intern (Mechanical)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000152068130": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152068130",
+      "title": "[EPM] AI Engineer (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000152062849": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152062849",
+      "title": "[SO] Product Legal Analysis Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151756789": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151756789",
+      "title": "[EMC] 05 Japanese-Speaking Embedded Software Project Manager (Hanoi/ HCM) (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151756139": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151756139",
+      "title": "[EMC] 5 Automotive Diagnostic Software Engineer (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151755149": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151755149",
+      "title": "[EAE] Software Project Manager – Japanese Speaking (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151754769": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151754769",
+      "title": "[EAE] Embedded System Engineer (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151754459": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151754459",
+      "title": "[EDA] ADAS Vehicle Motion Engineer (Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151595039": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151595039",
+      "title": "[EAF] Lead AI Engineer (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151594089": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151594089",
+      "title": "[EJV] Senior Telematics Software Engineer — Embedded Android (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151592590": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151592590",
+      "title": "[EJV] Senior Telematics Software Engineer (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151593398": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151593398",
+      "title": "[EJV] Penetration Tester — AI Safety & Security (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151592479": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151592479",
+      "title": "[EJV] 3 Embedded Software Developer (Open for Fresh graduate)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151590529": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151590529",
+      "title": "[EPM] AI Engineer (1 year Contractor)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151587865": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151587865",
+      "title": "[EPC] 3 Embedded Software Engineers (1-3 YoE)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151588849": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151588849",
+      "title": "[EMN] Automotive Engineer (English & Japanese required) | Long-term onsite in Japan (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151588219": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151588219",
+      "title": "[EMN] Software-Hardware Integration Verification and Validation Engineer (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151553701": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151553701",
+      "title": "[EJV] Senior Embedded Software Developer (with Joining Bonus)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000151297809": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151297809",
+      "title": "[SO] Project Management Intern (EN)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000150982931": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150982931",
+      "title": "[EMN] Bridge Hardware Engineer (Japanese/Chinese Speaking) - Open for Fresher",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000150951679": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150951679",
+      "title": "[BD] Lead Front-end Developer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000150931499": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150931499",
+      "title": "[EMC] NEO Vehicle Autosar Embedded SW Engineer (1 year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000150340229": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150340229",
+      "title": "[EJV] Junior Telematics Software Engineer — Embedded Android",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000149764269": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149764269",
+      "title": "[Internship] Sales Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000149554328": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149554328",
+      "title": "[EMN] Senior Hardware Engineer (3-month contractor)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000149524860": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149524860",
+      "title": "[EMN] Automotive Engineer (English & Japanese required) | Long-term onsite in Japan",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000149506669": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149506669",
+      "title": "[Bosch HcP – Internship] Line Engineering Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000149493916": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149493916",
+      "title": "Application Project Manager (Japanese Speaking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000149494009": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149494009",
+      "title": "Project Management Associate (Japanese Speaking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000148937636": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148937636",
+      "title": "[EMC] Embedded SW Architect",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000148921389": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148921389",
+      "title": "[EMC] Japanese-Speaking Embedded SW Developer (C/C++/Linux) (all levels)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000148418019": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148418019",
+      "title": "[SX/EIT-MM] - IJR - SAP Business consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000148380925": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148380925",
+      "title": "[Bosch R&D – Internship] Technical Documentation Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000148178989": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148178989",
+      "title": "Senior Demand Planner – ASEAN, Mobility Aftermarket Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000147832649": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147832649",
+      "title": "[EMC] Automotive Diagnostic Software Engineer (MA) 1 year contract",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000145901280": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145901280",
+      "title": "Department Head/ Business Unit Head (Automotive, Vehicle Cross Computing)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000145890409": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145890409",
+      "title": "[SO] IT Security Governance Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000145654899": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145654899",
+      "title": "Junior Managers Program (JMP), Bosch Business Sector Mobility",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000145439579": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145439579",
+      "title": "[Bosch HcP - Internship] Production Engineering Intern (Toolshop & Fineblanking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000144480524": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144480524",
+      "title": "Key User Manager – Construction & Energy (South Vietnam), Power Tools Division",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000144435747": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144435747",
+      "title": "Bosch Production System (BPS) Methodology Senior Specialist (HcP/TEF)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000144233170": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144233170",
+      "title": "[EMN] Internship – Automotive Hardware Penetration Testing",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000144227139": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144227139",
+      "title": "Digital Customer Service Center Specialist, Mobility Aftermarket Division (10 Open Positions)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143996079": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143996079",
+      "title": "[EAF] Senior Data Science Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143985850": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143985850",
+      "title": "[ETA] DevOps Engineer (Microsoft Azure)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143758952": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143758952",
+      "title": "[EDA] Intern for Embedded Software",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143735609": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143735609",
+      "title": "[EAE] PK - Software Test Engineer - SiL (1 year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143735419": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143735419",
+      "title": "[EAE] Embedded Test Engineer (1 year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143439069": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143439069",
+      "title": "[Internship] IT Support Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143246259": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143246259",
+      "title": "[SX/EIT-MM] Senior SAP S/4HANA GTS Technology Consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143222859": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143222859",
+      "title": "[BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000143135496": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143135496",
+      "title": "Senior Process Engineer (Tool shop & Fine Blanking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000141886931": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141886931",
+      "title": "[R&D] Technical Regulations Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000141852480": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141852480",
+      "title": "[ETA] Senior AUTOSAR Embedded Software Developer (C/C++, AUTOSAR, firmware, middleware)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000141678129": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141678129",
+      "title": "[EMN] Senior Technical Expert – Automotive HPC Embedded Platforms (POSIX Linux/QNX/Android)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000141642669": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141642669",
+      "title": "[Internship] Facility Operations Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000141631499": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141631499",
+      "title": "[EMC] NEO Agile Scrum Master (1 Year Contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000141631159": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141631159",
+      "title": "[EMC] NEO SoC1 Embedded SW Engineer (Linux, Android) (1 Year Contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000141630199": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141630199",
+      "title": "[EMC] HMI Software Engineer (C++/Qt) (BSH) (1 Year Contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000140178120": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140178120",
+      "title": "[EMN] Test Software Developer (Embedded C, AUTOSAR)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000137791159": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137791159",
+      "title": "[SO] Officer - Project Management (EN+JP)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000137627740": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137627740",
+      "title": "[SO] IT Quality Assistant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000137609229": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137609229",
+      "title": "[EPC] Embedded Software Engineer (1-year contractor)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000137000075": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137000075",
+      "title": "[EDA] ADAS Vehicle Motion Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000136647309": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136647309",
+      "title": "[SO] Senior Software Project Manager cum Agile Team Coach",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000136452010": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136452010",
+      "title": "[EET] Digital Marketing Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000134379904": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134379904",
+      "title": "[SO] Supply Chain_Transport Management Officer (German Shift)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000132769439": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132769439",
+      "title": "[HRL] Senior Learning & Development Executive (L&D)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000131584939": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131584939",
+      "title": "Quality Specialist - Quality Methodology Management",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000129654279": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129654279",
+      "title": "[SO] Intern Software Engineer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000129087789": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129087789",
+      "title": "[R&D] AI Engineer (focus AI Agent)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000128922330": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128922330",
+      "title": "[BD] Senior AI Developer (Agentic AI & Enterprise Platforms)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000128907151": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128907151",
+      "title": "[BD] Senior Front-End Developer - UX Driven",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000128399769": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128399769",
+      "title": "[Bosch R&D - Internship] Java Web Developing Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000128286310": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128286310",
+      "title": "[SX/EIT-MM] SAP Data Migration Consultant",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000126926430": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126926430",
+      "title": "[ESC XC-NE] Automotive AUTOSAR Base SW Developer (1 year contract)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000121379410": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121379410",
+      "title": "[EMC] Intern for Embedded SW Developer (C/C++/Linux) (Japanese-Speaking)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000117609767": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000117609767",
+      "title": "[ETA] Senior/Technical Lead Automotive Chiplet System (ACS)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000115798817": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115798817",
+      "title": "[ESC] 5 Chinese-Speaking Embedded Software Project Manager (Hanoi/ HCM)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000102982835": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000102982835",
+      "title": "[SO] Supply Chain Intern (Japanese N2)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000102005692": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000102005692",
+      "title": "5 Japanese-Speaking Embedded Software Project Manager (Hanoi/ HCM)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000101802791": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000101802791",
+      "title": "[EMC] Embedded Software Project Manager – Chinese Speaking",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000089178395": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089178395",
+      "title": "[SO] Translation & Requirement Management Support Intern (Japanese + English required)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000087732765": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000087732765",
+      "title": "[SO] Senior OutSystems Developer",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000076022718": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000076022718",
+      "title": "[Internship] Japanese & English Speaking Intern – Multiple Openings",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000035082770": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000035082770",
+      "title": "Operations Manager (Working location: Mekong Delta)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:743999850985662": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/743999850985662",
+      "title": "Senior SAP Consultant (PDM/PLM module)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:743999748657702": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/743999748657702",
+      "title": "[Contractor] Sales Representative",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "lever:shopback-2:7b2fb2d7-a415-41a4-ae2f-dd4fc53423c3": {
+      "url": "https://jobs.lever.co/shopback-2/7b2fb2d7-a415-41a4-ae2f-dd4fc53423c3",
+      "title": "HR Operations Specialist",
+      "source": "ShopBack",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "lever:shopback-2:efc922d8-8f50-4059-8da3-4b8efadb4b0d": {
+      "url": "https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d",
+      "title": "Regional CRM Manager",
+      "source": "ShopBack",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "lever:shopback-2:93823fee-dc5d-4cda-b4a3-77e8770a0c57": {
+      "url": "https://jobs.lever.co/shopback-2/93823fee-dc5d-4cda-b4a3-77e8770a0c57",
+      "title": "Regional Senior CRM Associate",
+      "source": "ShopBack",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b": {
+      "url": "https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
+      "title": "Software Engineer Intern - Backend",
+      "source": "ShopBack",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "lever:shopback-2:f3876c50-8b06-4342-af17-7cf393176a56": {
+      "url": "https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56",
+      "title": "Software Engineer Intern - Mobile",
+      "source": "ShopBack",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "lever:ninjavan:1927f397-9101-451c-bba7-0fa82c60f1e6": {
+      "url": "https://jobs.lever.co/ninjavan/1927f397-9101-451c-bba7-0fa82c60f1e6",
+      "title": "Senior Manager, Business Development (Commercial)",
+      "source": "Ninja Van",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "lever:ninjavan:a927544b-414a-4a49-8ecc-c866c33bccac": {
+      "url": "https://jobs.lever.co/ninjavan/a927544b-414a-4a49-8ecc-c866c33bccac",
+      "title": "Talent Acquisition Executive",
+      "source": "Ninja Van",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000162478759": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000162478759",
+      "title": "Sound Designer Intern",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000162455909": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000162455909",
+      "title": "AI Engineer Intern (Project: Talking Toy)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000160547109": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000160547109",
+      "title": "3D Environment Artist (Middle/Senior)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000160546829": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000160546829",
+      "title": "3D Character Artist (Middle/Senior)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000160160819": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000160160819",
+      "title": "3D Technical Artist",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000158232289": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000158232289",
+      "title": "3D Animator (Middle/Senior)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000158230061": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000158230061",
+      "title": "2D Artist (Middle/Senior)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000158215559": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000158215559",
+      "title": "Game Designer (Middle/Senior)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000157034009": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000157034009",
+      "title": "Graphic Designer (Middle/Senior)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Gameloft:744000155431629": {
+      "url": "https://jobs.smartrecruiters.com/Gameloft/744000155431629",
+      "title": "Division Principal Game Programmer (Unreal Engine, AI)",
+      "source": "Gameloft",
+      "seenAt": "2026-11-21T16:08:12+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4538835005": {
+      "url": "https://www.opswat.com/jobs/4538835005?gh_jid=4538835005",
+      "title": "AI Engineer",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:opswat:4478668005": {
+      "url": "https://www.opswat.com/jobs/4478668005?gh_jid=4478668005",
+      "title": "AI Engineer - Quality Engineering",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "smartrecruiters:Grab:744000147846689": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000147846689",
+      "title": "Software Engineer, Backend",
+      "source": "Grab",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:opswat:4528456005": {
+      "url": "https://www.opswat.com/jobs/4528456005?gh_jid=4528456005",
+      "title": "AI-Native Software Engineer - MD Core",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:opswat:4563487005": {
+      "url": "https://www.opswat.com/jobs/4563487005?gh_jid=4563487005",
+      "title": "AI-Native Software Engineer (Network Security)",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:opswat:4750935005": {
+      "url": "https://www.opswat.com/jobs/4750935005?gh_jid=4750935005",
+      "title": "Software Engineer - SBOM",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4665338006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4665338006",
+      "title": "Backend Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4658486006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4658486006",
+      "title": "Full Stack Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4703213006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4703213006",
+      "title": "Quantitative Developer",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "greenhouse:worldquant:4065713006": {
+      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4065713006",
+      "title": "Software Engineer",
+      "source": "WorldQuant",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "linkedin:4492555914": {
+      "url": "https://vn.linkedin.com/jobs/view/net-fullstack-developer-at-st-engineering-management-services-vietnam-4492555914",
+      "title": ".NET Fullstack Developer",
+      "source": "ST Engineering Management Services Vietnam",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
+    },
+    "smartrecruiters:BoschGroup:744000159582449": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159582449",
+      "title": "[BGSV/PJ-TE] Edge AI Engineer (ROS 2/Computer Vision/Sensor Fusion)",
+      "source": "Bosch",
+      "seenAt": "2026-11-21T16:08:27+07:00",
+      "digestAt": "2026-11-21T16:08:27+07:00",
+      "status": "sent"
     }
   }
 }
