@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T01:54:36+07:00",
+  "updatedAt": "2026-11-22T12:07:42+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,13 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "greenhouse:axon:8031372003": {
-      "url": "https://job-boards.greenhouse.io/axon/jobs/8031372003",
-      "title": "Technical Account Manager",
-      "source": "Axon",
-      "seenAt": "2026-10-23T10:25:04+07:00",
-      "status": "skipped"
     },
     "itviec:money-forward-vietnam-co-ltd:principal-software-engineer-node-js-typescript-money-forward-vietnam-co-ltd-4158": {
       "url": "https://itviec.com/it-jobs/principal-software-engineer-node-js-typescript-money-forward-vietnam-co-ltd-4158",
@@ -3299,6 +3292,21 @@
       "source": "Motorola Solutions",
       "seenAt": "2026-11-22T01:54:36+07:00",
       "status": "skipped"
+    },
+    "greenhouse:axon:8031372003": {
+      "url": "https://job-boards.greenhouse.io/axon/jobs/8031372003",
+      "title": "Technical Account Manager - C-UAS",
+      "source": "Axon",
+      "seenAt": "2026-11-22T12:07:39+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4493312978": {
+      "url": "https://vn.linkedin.com/jobs/view/data-platform-engineer-at-gotymex-4493312978",
+      "title": "Data Platform Engineer",
+      "source": "GoTymeX",
+      "seenAt": "2026-11-22T12:07:42+07:00",
+      "digestAt": "2026-11-22T12:07:42+07:00",
+      "status": "sent"
     }
   }
 }
