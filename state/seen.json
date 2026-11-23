@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T22:35:36+07:00",
+  "updatedAt": "2026-11-24T06:37:38+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -3334,6 +3334,27 @@
       "title": "Senior Data Scientist (Chuyên viên Cấp cao Khoa Học Dữ Liệu)",
       "source": "Prudential Vietnam Assurance Private Ltd.",
       "seenAt": "2026-11-23T22:35:36+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:opswat:4757734005": {
+      "url": "https://www.opswat.com/jobs/4757734005?gh_jid=4757734005",
+      "title": "Regional Sales Manager",
+      "source": "OPSWAT",
+      "seenAt": "2026-11-24T06:37:38+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4384169603": {
+      "url": "https://vn.linkedin.com/jobs/view/senior-research-scientist-at-axon-4384169603",
+      "title": "Senior Research Scientist",
+      "source": "Axon",
+      "seenAt": "2026-11-24T06:37:38+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4457728704": {
+      "url": "https://vn.linkedin.com/jobs/view/senior-operations-automation-operations-shopeefood-at-shopee-4457728704",
+      "title": "Senior Operations Automation, Operations - ShopeeFood",
+      "source": "Shopee",
+      "seenAt": "2026-11-24T06:37:38+07:00",
       "status": "skipped"
     }
   }
