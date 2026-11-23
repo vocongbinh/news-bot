@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T12:48:26+07:00",
+  "updatedAt": "2026-11-23T22:35:36+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -3313,6 +3313,27 @@
       "title": "Mission Engineer - Tampa",
       "source": "Axon",
       "seenAt": "2026-11-23T12:48:26+07:00",
+      "status": "skipped"
+    },
+    "ashby:airwallex:b79d2500-aabc-42c6-a007-1b699b485641": {
+      "url": "https://jobs.ashbyhq.com/airwallex/b79d2500-aabc-42c6-a007-1b699b485641",
+      "title": "Senior Manager, Integrated Marketing, VN",
+      "source": "Airwallex",
+      "seenAt": "2026-11-23T22:35:36+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4493743722": {
+      "url": "https://vn.linkedin.com/jobs/view/senior-ai-engineer-at-zalora-group-4493743722",
+      "title": "Senior AI Engineer",
+      "source": "ZALORA Group",
+      "seenAt": "2026-11-23T22:35:36+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4490430417": {
+      "url": "https://vn.linkedin.com/jobs/view/senior-data-scientist-chuy%C3%AAn-vi%C3%AAn-c%E1%BA%A5p-cao-khoa-h%E1%BB%8Dc-d%E1%BB%AF-li%E1%BB%87u-at-prudential-vietnam-assurance-private-ltd-4490430417",
+      "title": "Senior Data Scientist (Chuyên viên Cấp cao Khoa Học Dữ Liệu)",
+      "source": "Prudential Vietnam Assurance Private Ltd.",
+      "seenAt": "2026-11-23T22:35:36+07:00",
       "status": "skipped"
     }
   }
