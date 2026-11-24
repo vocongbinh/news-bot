@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T15:26:38+07:00",
+  "updatedAt": "2026-11-24T22:27:51+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -3362,6 +3362,27 @@
       "title": "Regional Manager, Regional Management Office",
       "source": "Agoda",
       "seenAt": "2026-11-24T15:26:38+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4381575787": {
+      "url": "https://vn.linkedin.com/jobs/view/assistant-manager-full-stack-software-engineer-at-manulife-4381575787",
+      "title": "Assistant Manager, Full Stack Software Engineer",
+      "source": "Manulife",
+      "seenAt": "2026-11-24T22:27:51+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4485464648": {
+      "url": "https://vn.linkedin.com/jobs/view/senior-data-engineer-at-backbase-4485464648",
+      "title": "Senior Data Engineer",
+      "source": "Backbase",
+      "seenAt": "2026-11-24T22:27:51+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4433256186": {
+      "url": "https://vn.linkedin.com/jobs/view/senior-platform-engineering-lead-at-hitachi-digital-services-4433256186",
+      "title": "Senior Platform Engineering Lead",
+      "source": "Hitachi Digital Services",
+      "seenAt": "2026-11-24T22:27:51+07:00",
       "status": "skipped"
     }
   }
