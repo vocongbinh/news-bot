@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T06:37:38+07:00",
+  "updatedAt": "2026-11-24T15:26:38+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -3355,6 +3355,13 @@
       "title": "Senior Operations Automation, Operations - ShopeeFood",
       "source": "Shopee",
       "seenAt": "2026-11-24T06:37:38+07:00",
+      "status": "skipped"
+    },
+    "greenhouse:agoda:8401692": {
+      "url": "https://job-boards.greenhouse.io/agoda/jobs/8401692",
+      "title": "Regional Manager, Regional Management Office",
+      "source": "Agoda",
+      "seenAt": "2026-11-24T15:26:38+07:00",
       "status": "skipped"
     }
   }
