@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T13:54:06+07:00",
+  "updatedAt": "2026-11-26T21:38:18+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -16,20 +16,6 @@
       "seenAt": "2026-10-01T24:49:28+07:00",
       "digestAt": "2026-10-01T24:49:28+07:00",
       "status": "sent"
-    },
-    "workday:nab:JR122343-1": {
-      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Head-of-Engineering--Digital_JR122343-1",
-      "title": "Head of Engineering- Digital",
-      "source": "NAB Innovation Centre Vietnam",
-      "seenAt": "2026-10-27T17:09:05+07:00",
-      "status": "skipped"
-    },
-    "workday:nab:JR122487": {
-      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Business-Analyst-Manager_JR122487",
-      "title": "Business Analyst Manager",
-      "source": "NAB Innovation Centre Vietnam",
-      "seenAt": "2026-10-27T17:09:05+07:00",
-      "status": "skipped"
     },
     "smartrecruiters:Grab:744000157997299": {
       "url": "https://jobs.smartrecruiters.com/Grab/744000157997299",
@@ -3481,6 +3467,41 @@
       "title": "[Bosch HcP - Internship] Production Engineering Intern (MFO)",
       "source": "Bosch",
       "seenAt": "2026-11-26T13:54:06+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:Grab:744000163834890": {
+      "url": "https://jobs.smartrecruiters.com/Grab/744000163834890",
+      "title": "Country Safety Manager",
+      "source": "Grab",
+      "seenAt": "2026-11-26T21:38:18+07:00",
+      "status": "skipped"
+    },
+    "ashby:airwallex:1fad0b14-130a-41a0-968a-edb53b0ccb47": {
+      "url": "https://jobs.ashbyhq.com/airwallex/1fad0b14-130a-41a0-968a-edb53b0ccb47",
+      "title": "CEO, Vietnam",
+      "source": "Airwallex",
+      "seenAt": "2026-11-26T21:38:18+07:00",
+      "status": "skipped"
+    },
+    "workday:nab:JR122343-1": {
+      "url": "https://nab.wd3.myworkdayjobs.com/en-US/nab_careers/job/Ho-Chi-Minh-City-Vietnam/Head-of-Engineering--Digital_JR122343-1",
+      "title": "Head of Engineering- Digital",
+      "source": "NAB Innovation Centre Vietnam",
+      "seenAt": "2026-11-26T21:38:18+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000163812900": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163812900",
+      "title": "[BSV] Embedded Software Intern (C/C++, Modeling Language)",
+      "source": "Bosch",
+      "seenAt": "2026-11-26T21:38:18+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4486361919": {
+      "url": "https://vn.linkedin.com/jobs/view/analytics-consultant-data-scientist-at-the-heineken-company-4486361919",
+      "title": "Analytics Consultant (Data Scientist)",
+      "source": "The HEINEKEN Company",
+      "seenAt": "2026-11-26T21:38:18+07:00",
       "status": "skipped"
     }
   }
