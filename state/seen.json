@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T04:24:21+07:00",
+  "updatedAt": "2026-11-26T13:54:06+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -3453,6 +3453,34 @@
       "title": "Senior/Staff Embedded Robotics AI Engineer – Embedded Platform",
       "source": "Renesas Electronics",
       "seenAt": "2026-11-25T22:13:01+07:00",
+      "status": "skipped"
+    },
+    "ashby:airwallex:d1d0116d-7edb-4b15-87bc-4dbd74bc83e0": {
+      "url": "https://jobs.ashbyhq.com/airwallex/d1d0116d-7edb-4b15-87bc-4dbd74bc83e0",
+      "title": "Business Development Manager, SME & Growth",
+      "source": "Airwallex",
+      "seenAt": "2026-11-26T13:54:06+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000163808919": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163808919",
+      "title": "[Bosch HcP - Internship] Production Maintenance Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-26T13:54:06+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000163802249": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163802249",
+      "title": "[CTG] Financial Data Analyst Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-26T13:54:06+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000163800997": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163800997",
+      "title": "[Bosch HcP - Internship] Production Engineering Intern (MFO)",
+      "source": "Bosch",
+      "seenAt": "2026-11-26T13:54:06+07:00",
       "status": "skipped"
     }
   }
