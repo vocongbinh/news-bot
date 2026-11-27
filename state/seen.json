@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T04:11:34+07:00",
+  "updatedAt": "2026-11-27T13:46:23+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -3502,6 +3502,27 @@
       "title": "Analytics Consultant (Data Scientist)",
       "source": "The HEINEKEN Company",
       "seenAt": "2026-11-26T21:38:18+07:00",
+      "status": "skipped"
+    },
+    "smartrecruiters:BoschGroup:744000163957035": {
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163957035",
+      "title": "[Bosch HcP – Internship] Production Process Engineering Intern",
+      "source": "Bosch",
+      "seenAt": "2026-11-27T13:46:23+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4495567848": {
+      "url": "https://vn.linkedin.com/jobs/view/senior-staff-embedded-ai-architect-at-motorola-solutions-4495567848",
+      "title": "Senior Staff Embedded AI Architect",
+      "source": "Motorola Solutions",
+      "seenAt": "2026-11-27T13:46:23+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4495587063": {
+      "url": "https://vn.linkedin.com/jobs/view/data-scientist-ii-at-motorola-solutions-4495587063",
+      "title": "Data Scientist II",
+      "source": "Motorola Solutions",
+      "seenAt": "2026-11-27T13:46:23+07:00",
       "status": "skipped"
     }
   }
