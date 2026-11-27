@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T21:33:40+07:00",
+  "updatedAt": "2026-11-28T03:54:56+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -3537,6 +3537,13 @@
       "title": "Senior Fullstack (Java/Reactjs) Developer",
       "source": "Axon Active - Agile Software Development Company",
       "seenAt": "2026-11-27T21:33:40+07:00",
+      "status": "skipped"
+    },
+    "linkedin:4495050655": {
+      "url": "https://vn.linkedin.com/jobs/view/ai-driven-full-stack-intern-at-hitachi-digital-services-4495050655",
+      "title": "AI-Driven Full Stack Intern",
+      "source": "Hitachi Digital Services",
+      "seenAt": "2026-11-28T03:54:56+07:00",
       "status": "skipped"
     }
   }
