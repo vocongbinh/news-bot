@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T03:54:56+07:00",
+  "updatedAt": "2026-11-28T13:20:22+07:00",
   "items": {
     "rss:simonwillison:d3b185d971abc0ea": {
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
@@ -30,14 +30,6 @@
       "source": "Grab",
       "seenAt": "2026-10-28T24:44:55+07:00",
       "status": "skipped"
-    },
-    "itviec:money-forward-vietnam-co-ltd:principal-java-kotlin-engineer-banking-saas-money-forward-vietnam-co-ltd-5007": {
-      "url": "https://itviec.com/it-jobs/principal-java-kotlin-engineer-banking-saas-money-forward-vietnam-co-ltd-5007",
-      "title": "Principal Java/Kotlin Engineer (Banking/SaaS)",
-      "source": "Money Forward Vietnam",
-      "seenAt": "2026-10-29T11:25:24+07:00",
-      "digestAt": "2026-10-29T11:25:24+07:00",
-      "status": "sent"
     },
     "greenhouse:axon:8010024003": {
       "url": "https://job-boards.greenhouse.io/axon/jobs/8010024003",
